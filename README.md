@@ -173,6 +173,9 @@ Open-source projects I'm publishing, extracted from real production work:
 ## By the numbers
 
 <!--START_SECTION:waka-->
+*Aguardando a primeira execução do workflow. Estes números são gerados
+automaticamente todo dia às 18:30 UTC — janela móvel dos últimos 7 dias de
+código, mais o histórico completo de commits.*
 <!--END_SECTION:waka-->
 
 <!--

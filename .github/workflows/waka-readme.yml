@@ -11,10 +11,10 @@ jobs:
     name: Update README with dev metrics
     runs-on: ubuntu-latest
 
-    # Dá poder de escrita ao GITHUB_TOKEN efêmero deste job — e só a ele,
-    # só neste repositório, só enquanto o job roda.
+    # O push é feito pelo PUSH_TOKEN, não pelo GITHUB_TOKEN — então o token
+    # efêmero deste job não precisa de escrita nenhuma.
     permissions:
-      contents: write
+      contents: read
 
     steps:
       - uses: anmol098/waka-readme-stats@master
@@ -43,12 +43,25 @@ jobs:
           #   Account permissions .: nenhuma
           # Esse token não escreve em lugar nenhum.
           #
-          # PUSH_TOKEN faz o commit do README. É o token automático do
-          # Actions: nasce no início do job, morre no fim, não precisa ser
-          # criado nem renovado.
+          # PUSH_TOKEN faz o commit do README, e precisa de ESCRITA.
+          # NÃO pode ser o ${{ secrets.GITHUB_TOKEN }} — testado, dá 403.
+          # A action ou não valida o token efêmero em get_repo().permissions
+          # e cai de volta no GH_TOKEN (read-only), ou monta a URL como
+          # https://<token>@github.com/..., com o token na posição de usuário,
+          # forma que um token de instalação não autentica. Nos dois casos o
+          # push termina sem permissão de escrita.
+          # Segundo token fine-grained, deliberadamente estreito:
+          #   Repository access ...: Only select repositories ->
+          #                          davidsonalencar/davidsonalencar
+          #   Repository permissions: Metadata: Read, Contents: Read and write
+          # Escreve em UM repositório público, e nada além disso.
           # ---------------------------------------------------------------
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          PUSH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PUSH_TOKEN: ${{ secrets.PUSH_TOKEN }}
+
+          # A action engole os erros de escolha de token em log de DEBUG.
+          # Sem isto, uma falha de permissão aparece só como um 403 cru.
+          DEBUG_LOGGING: "True"
 
           LOCALE: en
           SECTION_NAME: waka
@@ -69,15 +82,23 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
 
           # ---------------------------------------------------------------
-          # Dependem do WakaTime. Ficam FALSE até haver histórico suficiente
-          # (~3-4 semanas com o plugin instalado). Depois é só virar p/ True.
+          # Dependem do WakaTime/Wakapi. Ligados desde já, de propósito:
+          # os números começam pequenos e vão engordando dia a dia, o que
+          # é justamente o que dá para acompanhar.
+          #
+          # Janela de dados: a action consulta /stats/last_7_days, ou seja
+          # SEMPRE os últimos 7 dias corridos (janela móvel, não semana
+          # calendário). Só SHOW_TOTAL_CODE_TIME usa /stats/all_time.
+          #
+          # Se o WAKATIME_API_KEY ainda não estiver configurado, estes blocos
+          # saem vazios (ou o job falha) — nesse caso volte tudo para False.
           # ---------------------------------------------------------------
-          SHOW_TOTAL_CODE_TIME: "False"
-          SHOW_LANGUAGE: "False"
-          SHOW_EDITORS: "False"
-          SHOW_OS: "False"
-          SHOW_PROJECTS: "False"
-          SHOW_TIMEZONE: "False"
+          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_EDITORS: "True"
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_TIMEZONE: "True"
 
           # ---------------------------------------------------------------
           # Desligados de propósito.
