@@ -1,0 +1,90 @@
+name: Waka Readme Stats
+
+on:
+  schedule:
+    # Todo dia às 18:30 UTC (15:30 em Brasília)
+    - cron: "30 18 * * *"
+  workflow_dispatch: # permite rodar manualmente pela aba Actions
+
+jobs:
+  update-readme:
+    name: Update README with dev metrics
+    runs-on: ubuntu-latest
+
+    # Dá poder de escrita ao GITHUB_TOKEN efêmero deste job — e só a ele,
+    # só neste repositório, só enquanto o job roda.
+    permissions:
+      contents: write
+
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+          # Backend de time tracking. Default = wakatime.com.
+          # O plano free do WakaTime expõe apenas 14 dias via API, e esta action
+          # consulta /users/current/stats/all_time — ou seja, "total code time"
+          # fica capado no free.
+          #
+          # Por isso o backend aqui é o Wakapi (open source, retenção
+          # ilimitada). Para voltar ao wakatime.com basta comentar a linha
+          # abaixo. Em ambos os casos o api_url do ~/.wakatime.cfg do PyCharm
+          # tem que apontar para o mesmo lugar — o plugin é o mesmo.
+          WAKATIME_API_URL: "https://wakapi.dev/api/v1/"
+
+          # ---------------------------------------------------------------
+          # Dois tokens, de propósito.
+          #
+          # GH_TOKEN só LÊ: lista de repos via GraphQL + dados do /user.
+          # Criar em https://github.com/settings/personal-access-tokens/new
+          # (fine-grained, NÃO o clássico):
+          #   Repository access ...: All repositories
+          #   Repository permissions: Metadata: Read, Contents: Read
+          #   Account permissions .: nenhuma
+          # Esse token não escreve em lugar nenhum.
+          #
+          # PUSH_TOKEN faz o commit do README. É o token automático do
+          # Actions: nasce no início do job, morre no fim, não precisa ser
+          # criado nem renovado.
+          # ---------------------------------------------------------------
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          PUSH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          LOCALE: en
+          SECTION_NAME: waka
+          SHOW_UPDATED_DATE: "True"
+          COMMIT_BY_ME: "True"
+          COMMIT_MESSAGE: "Update dev metrics"
+
+          # ---------------------------------------------------------------
+          # Só dependem do GH_TOKEN — funcionam desde o primeiro dia.
+          # ---------------------------------------------------------------
+          SHOW_COMMIT: "True"          # em que horário do dia você commita
+          SHOW_DAYS_OF_WEEK: "True"    # em que dia da semana você commita
+          SHOW_SHORT_INFO: "True"
+
+          # Desligado por causa do token read-only: a API de traffic exige
+          # "Administration: Read", que num token fine-grained valeria para
+          # TODOS os repos selecionados. Não compensa pelo contador de views.
+          SHOW_PROFILE_VIEWS: "False"
+
+          # ---------------------------------------------------------------
+          # Dependem do WakaTime. Ficam FALSE até haver histórico suficiente
+          # (~3-4 semanas com o plugin instalado). Depois é só virar p/ True.
+          # ---------------------------------------------------------------
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_LANGUAGE: "False"
+          SHOW_EDITORS: "False"
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_TIMEZONE: "False"
+
+          # ---------------------------------------------------------------
+          # Desligados de propósito.
+          # LANGUAGE_PER_REPO conta os ~40 forks antigos (Angular.js, jQuery,
+          # Yii2) e distorce o perfil. Só ligar depois de arquivar os forks.
+          # LINES_OF_CODE / LOC_CHART clonam TODOS os repositórios a cada run.
+          # ---------------------------------------------------------------
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_LOC_CHART: "False"
