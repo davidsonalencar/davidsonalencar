@@ -67,6 +67,14 @@ jobs:
           SECTION_NAME: waka
           SHOW_UPDATED_DATE: "True"
           COMMIT_BY_ME: "True"
+
+          # Sem estas duas linhas a action cai no fallback
+          # Actor(USER.login, USER.email) — e USER.email vem null da API
+          # porque o email da conta é privado, gerando commits assinados
+          # como "davidsonalencar <None>", que não contam no gráfico de
+          # contribuições.
+          COMMIT_USERNAME: "Davidson Alencar"
+          COMMIT_EMAIL: "davidosn.t.i@gmail.com"
           COMMIT_MESSAGE: "Update dev metrics"
 
           # ---------------------------------------------------------------
@@ -109,3 +117,46 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LINES_OF_CODE: "False"
           SHOW_LOC_CHART: "False"
+
+  # ------------------------------------------------------------------
+  # A action acima escreve SÓ no README canônico do repositório — em
+  # sources/manager_github.py ela resolve o caminho como
+  # REMOTE.get_readme().path, que é o README.md. Não existe input de
+  # arquivo-alvo. Sem este job, README.pt-BR.md e README.es.md ficariam
+  # congelados com os números do dia em que foram commitados.
+  #
+  # O LOCALE também é global por execução, então o bloco de stats sai em
+  # inglês nos três arquivos — é quase todo número e barra de progresso.
+  # ------------------------------------------------------------------
+  sync-translations:
+    name: Sync stats block into translated READMEs
+    needs: update-readme
+    runs-on: ubuntu-latest
+
+    # Mesma lógica do job anterior: quem escreve é o PUSH_TOKEN.
+    permissions:
+      contents: read
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # Sem o ref explícito, o checkout pega o SHA que disparou o
+          # workflow — ou seja, ANTES do commit que a action acabou de
+          # fazer, e o script copiaria os números velhos.
+          ref: ${{ github.ref_name }}
+          token: ${{ secrets.PUSH_TOKEN }}
+
+      - name: Copy waka section from README.md
+        run: python3 scripts/sync_readme_translations.py
+
+      - name: Commit and push if anything changed
+        run: |
+          if [ -z "$(git status --porcelain README.pt-BR.md README.es.md)" ]; then
+            echo "Nothing to sync."
+            exit 0
+          fi
+          git config user.name "Davidson Alencar"
+          git config user.email "davidosn.t.i@gmail.com"
+          git add README.pt-BR.md README.es.md
+          git commit -m "Sync dev metrics into translated READMEs"
+          git push

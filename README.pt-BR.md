@@ -2,65 +2,64 @@
 
 # Davidson Alencar
 
-**Software Engineer** · Full-Stack · AI & RAG · Automation · Fintech
+**Engenheiro de Software** · Full-Stack · IA & RAG · Automação · Fintech
 
-*Shipping software since 2005 — from legacy banking systems to AI-powered platforms.*
+*Entregando software desde 2005 — de sistemas bancários legados a plataformas com IA.*
 
 <a href="https://github.com/davidsonalencar"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/davidsonalencar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<img src="https://img.shields.io/badge/Based%20in-Brazil-009B3A?style=flat-square" alt="Brazil">
-<img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Contract-6366F1?style=flat-square" alt="Open to work">
+<img src="https://img.shields.io/badge/Onde%20estou-Brasil-009B3A?style=flat-square" alt="Brasil">
+<img src="https://img.shields.io/badge/Dispon%C3%ADvel%20para-Freelance%20%26%20Contrato-6366F1?style=flat-square" alt="Disponível para trabalho">
 
-<sub><b>English</b> · <a href="README.pt-BR.md">Português</a> · <a href="README.es.md">Español</a></sub>
+<sub><a href="README.md">English</a> · <b>Português</b> · <a href="README.es.md">Español</a></sub>
 
 </div>
 
 ---
 
-## In plain words
+## Em poucas palavras
 
-People come to me when their software needs to **talk to something else** — a bank, a payment
-provider, an AI model, or an old system nobody wants to touch — or when a process that eats
-hours of someone's day **should just run by itself**.
+As pessoas me procuram quando o software delas precisa **conversar com outra coisa** — um banco,
+uma adquirente, um modelo de IA, ou um sistema antigo que ninguém quer tocar — ou quando um
+processo que consome horas do dia de alguém **deveria simplesmente rodar sozinho**.
 
-I design it, build it, and make sure it keeps working.
+Eu desenho, construo, e garanto que continue funcionando.
 
-Twenty years in, I've learned that the hard part is almost never the code. It's understanding
-what the business actually needs, and choosing an architecture that still makes sense two years
-from now.
+Vinte anos depois, aprendi que a parte difícil quase nunca é o código. É entender o que o negócio
+realmente precisa, e escolher uma arquitetura que ainda faça sentido daqui a dois anos.
 
 ---
 
-## What I do
+## O que eu faço
 
 | | | |
 |---|---|---|
-| 🧠 | **AI that reads your documents** | Systems that ingest thousands of documents and answer questions about them — with sources, not hallucinations. RAG pipelines, LLM integrations, semantic search, AI agents. |
-| ⚙️ | **Automation** | Manual, repetitive processes turned into software that runs on its own. Integrations, webhooks, scheduled jobs, event-driven workflows. |
-| 💳 | **Payments & financial systems** | Payment APIs, PIX, transaction processing, reconciliation, back-office tooling. Software where being *almost* right isn't good enough. |
-| ⛓️ | **Crypto & trading infrastructure** | Exchange APIs, real-time market data over WebSockets, order execution, backtesting engines. |
-| 🌐 | **Web platforms & APIs** | SaaS products, internal systems, dashboards, REST APIs — front to back. |
-| 🔗 | **Legacy modernization** | Systems that still run the company but nobody wants to open. I migrate them, wrap them in APIs, or replace them piece by piece — without the business stopping. Oracle, SQL Server, SOAP, XSLT, Delphi, and worse. |
+| 🧠 | **IA que lê os seus documentos** | Sistemas que ingerem milhares de documentos e respondem perguntas sobre eles — com fontes, não alucinações. Pipelines de RAG, integrações com LLM, busca semântica, agentes de IA. |
+| ⚙️ | **Automação** | Processos manuais e repetitivos transformados em software que roda sozinho. Integrações, webhooks, jobs agendados, fluxos orientados a eventos. |
+| 💳 | **Pagamentos e sistemas financeiros** | APIs de pagamento, PIX, processamento de transações, conciliação, ferramentas de back-office. Software em que estar *quase* certo não basta. |
+| ⛓️ | **Cripto e infraestrutura de trading** | APIs de exchanges, dados de mercado em tempo real por WebSocket, execução de ordens, engines de backtest. |
+| 🌐 | **Plataformas web e APIs** | Produtos SaaS, sistemas internos, dashboards, APIs REST — do front ao back. |
+| 🔗 | **Modernização de legado** | Sistemas que ainda sustentam a empresa e que ninguém quer abrir. Eu migro, embrulho em APIs, ou substituo peça por peça — sem parar o negócio. Oracle, SQL Server, SOAP, XSLT, Delphi, e coisa pior. |
 
 ---
 
-## Twenty years, briefly
+## Vinte anos, resumidos
 
-|  | What I was building | With |
+|  | O que eu construía | Com |
 |---|---|---|
-| **2005 – 2008** | Systems for hospitals and clinics, law firms, museums, libraries and documentation centres. Web pages that updated **without reloading the screen** — years before that became normal practice on the web. | Delphi · PHP · Python · vanilla JavaScript · XML · XSLT |
-| **2008 – 2012** | Healthcare data interchange (TISS/ANS), XML schema tooling, document pipelines, richer interfaces. | PHP · Python · XSLT · SOAP / XSD · script.aculo.us → jQuery |
-| **2012 – 2016** | The move to APIs and single-page applications. | AngularJS · Vue · REST · MySQL · SQL Server · Oracle |
-| **2016 – 2020** | Service-oriented backends, containers, deploys that don't depend on one person being awake. | Django · Laravel · Node.js · Docker · PostgreSQL |
-| **2020 – 2024** | Real-time systems and financial infrastructure. | React · Next.js · FastAPI · WebSockets · Redis |
-| **2024 – now** | AI inside real products: retrieval, agents, automation. | LLM APIs · RAG · embeddings · vector databases |
+| **2005 – 2008** | Sistemas para hospitais e clínicas, escritórios de advocacia, museus, bibliotecas e centros de documentação. Páginas web que atualizavam **sem recarregar a tela** — anos antes de isso virar prática comum na web. | Delphi · PHP · Python · JavaScript puro · XML · XSLT |
+| **2008 – 2012** | Troca de informação em saúde suplementar (TISS/ANS), ferramentaria de schemas XML, pipelines de documentos, interfaces mais ricas. | PHP · Python · XSLT · SOAP / XSD · script.aculo.us → jQuery |
+| **2012 – 2016** | A virada para APIs e single-page applications. | AngularJS · Vue · REST · MySQL · SQL Server · Oracle |
+| **2016 – 2020** | Backends orientados a serviços, containers, deploys que não dependem de uma pessoa estar acordada. | Django · Laravel · Node.js · Docker · PostgreSQL |
+| **2020 – 2024** | Sistemas em tempo real e infraestrutura financeira. | React · Next.js · FastAPI · WebSockets · Redis |
+| **2024 – hoje** | IA dentro de produtos de verdade: retrieval, agentes, automação. | APIs de LLM · RAG · embeddings · bancos vetoriais |
 
-The stack changed six times. The job never did: **understand the problem, then build something
-that survives contact with reality.**
+A stack mudou seis vezes. O trabalho, nunca: **entender o problema, e então construir algo que
+sobreviva ao contato com a realidade.**
 
 ---
 
-## Tech I work with
+## Tecnologias com que trabalho
 
 **Backend**
 
@@ -80,15 +79,15 @@ that survives contact with reality.**
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**AI & Data**
+**IA e Dados**
 
 ![OpenAI](https://img.shields.io/badge/LLM%20APIs-412991?style=flat-square&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat-square)
-![Agents](https://img.shields.io/badge/AI%20Agents-8B5CF6?style=flat-square)
+![Agents](https://img.shields.io/badge/Agentes%20de%20IA-8B5CF6?style=flat-square)
 ![Embeddings](https://img.shields.io/badge/Embeddings-8B5CF6?style=flat-square)
-![Vector DB](https://img.shields.io/badge/Vector%20Databases-8B5CF6?style=flat-square)
+![Vector DB](https://img.shields.io/badge/Bancos%20Vetoriais-8B5CF6?style=flat-square)
 
-**Databases**
+**Bancos de dados**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -97,14 +96,14 @@ that survives contact with reality.**
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 
-**Infrastructure**
+**Infraestrutura**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**And the old world** — because that's what you're usually migrating *from*
+**E o mundo antigo** — porque é geralmente *de lá* que se está migrando
 
 ![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white)
 ![XSLT](https://img.shields.io/badge/XSLT-005A9C?style=flat-square)
@@ -115,65 +114,70 @@ that survives contact with reality.**
 ![AngularJS](https://img.shields.io/badge/AngularJS-B52E31?style=flat-square&logo=angularjs&logoColor=white)
 ![Yii2](https://img.shields.io/badge/Yii2-73B839?style=flat-square)
 
-I still read these fluently. Very few people who can build you a RAG pipeline can also open a
-2009 XSLT transform or a Delphi unit and tell you what it does — which is exactly what a
-migration needs.
+Continuo lendo tudo isso fluentemente. Muito pouca gente que consegue te entregar um pipeline de
+RAG também abre uma transformação XSLT de 2009 ou uma unit Delphi e te diz o que aquilo faz — que
+é exatamente do que uma migração precisa.
 
 ---
 
-## How I pick a stack
+## Como eu escolho uma stack
 
-I don't choose technology because it's fashionable. I choose it because it fits the problem.
+Não escolho tecnologia porque está na moda. Escolho porque cabe no problema.
 
-| If the problem is… | I usually reach for |
+| Se o problema é… | Normalmente eu uso |
 |---|---|
-| AI, data processing, heavy integrations | **Python** — Django / DRF / FastAPI |
-| Real-time, WebSockets, event-driven | **Node.js** or **Python async** |
-| Business applications, admin-heavy systems | **PHP** — Laravel / Filament |
-| A product users will actually look at | **Next.js** + TypeScript + Tailwind |
+| IA, processamento de dados, integrações pesadas | **Python** — Django / DRF / FastAPI |
+| Tempo real, WebSockets, orientado a eventos | **Node.js** ou **Python async** |
+| Aplicações de negócio, sistemas com muito admin | **PHP** — Laravel / Filament |
+| Um produto que o usuário vai realmente olhar | **Next.js** + TypeScript + Tailwind |
 
-Being genuinely productive in several ecosystems means I can recommend the right one instead of
-selling the only one I know.
-
----
-
-## Problems I enjoy
-
-> *"We have a system from 2011 that nobody wants to touch — and it still runs the company."*
-
-> *"We need to move off this platform without stopping the business for a week."*
-
-> *"We have several systems that need to talk to each other."*
-
-> *"This process is manual and it's costing us hours every week."*
-
-> *"Three people re-type the same data into three different systems."*
-
-> *"We have thousands of documents and no way to search them intelligently."*
-
-> *"We need to integrate with this provider's API."*
-
-> *"We need to process transactions reliably — no exceptions."*
-
-> *"We want AI inside our existing product, not a separate toy."*
-
-These are the ones worth solving.
+Ser genuinamente produtivo em vários ecossistemas significa que eu posso recomendar o certo, em
+vez de vender o único que eu conheço.
 
 ---
 
-## Currently building
+## Problemas que eu gosto
 
-Open-source projects I'm publishing, extracted from real production work:
+> *"Temos um sistema de 2011 que ninguém quer tocar — e ele ainda sustenta a empresa."*
 
-- 🧠 **RAG Knowledge Platform** — document ingestion → embeddings → contextual answers with sources
-- ⛓️ **Crypto Exchange Gateway** — one interface, many exchanges: market data, WebSockets, order management
-- 💳 **Finance Dashboard** — import bank statements, categorize spending, see where the money goes
-- 📈 **Pine Trading Setups** — TradingView indicators and strategies
+> *"Precisamos sair dessa plataforma sem parar o negócio por uma semana."*
+
+> *"Temos vários sistemas que precisam conversar entre si."*
+
+> *"Esse processo é manual e custa horas toda semana."*
+
+> *"Três pessoas redigitam o mesmo dado em três sistemas diferentes."*
+
+> *"Temos milhares de documentos e nenhum jeito de buscar neles com inteligência."*
+
+> *"Precisamos integrar com a API desse fornecedor."*
+
+> *"Precisamos processar transações de forma confiável — sem exceções."*
+
+> *"Queremos IA dentro do nosso produto atual, não um brinquedo separado."*
+
+Esses são os que valem a pena resolver.
 
 ---
 
-## By the numbers
+## Construindo agora
 
+Projetos open source que estou publicando, extraídos de trabalho real em produção:
+
+- 🧠 **RAG Knowledge Platform** — ingestão de documentos → embeddings → respostas contextuais com fontes
+- ⛓️ **Crypto Exchange Gateway** — uma interface, várias exchanges: dados de mercado, WebSockets, gestão de ordens
+- 💳 **Finance Dashboard** — importa extratos bancários, categoriza gastos, mostra para onde vai o dinheiro
+- 📈 **Pine Trading Setups** — indicadores e estratégias para TradingView
+
+---
+
+## Em números
+
+<!--
+  Bloco gerado. Não editar à mão: o job sync-translations do workflow
+  waka-readme.yml copia esta seção do README.md depois de cada atualização.
+  Os rótulos ficam em inglês de propósito — a action gera um bloco só.
+-->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hrs%2037%20mins-blue?style=flat)
 
@@ -249,33 +253,22 @@ No AI Coding Activity Tracked This Week
  Last Updated on 19/08/2026 19:00:02 UTC
 <!--END_SECTION:waka-->
 
-<!--
-  Card de stats desativado: a instância pública github-readme-stats.vercel.app
-  está com DEPLOYMENT_PAUSED (503). Para reativar, suba a sua própria instância
-  na Vercel (fork + env PAT_1) e troque o host das duas URLs abaixo.
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://SEU-APP.vercel.app/api?username=davidsonalencar&show_icons=true&hide_border=true&theme=github_dark&hide_title=true&card_width=450&locale=en">
-  <img src="https://SEU-APP.vercel.app/api?username=davidsonalencar&show_icons=true&hide_border=true&theme=graywhite&hide_title=true&card_width=450&locale=en" alt="GitHub stats">
-</picture>
-</div>
--->
+<!-- Card de stats desativado — ver a nota no README.md. -->
 
 ---
 
-## Let's build something
+## Vamos construir algo
 
-I work with teams and founders on **AI integrations, automation, APIs, fintech, crypto
-infrastructure, SaaS platforms** and the messy integrations in between.
+Trabalho com times e fundadores em **integrações de IA, automação, APIs, fintech, infraestrutura
+cripto, plataformas SaaS** e nas integrações bagunçadas do meio do caminho.
 
-If your project involves connecting systems, automating a process, or putting real intelligence
-into software you already have — I'd be glad to talk through the architecture.
+Se o seu projeto envolve conectar sistemas, automatizar um processo, ou colocar inteligência de
+verdade num software que você já tem — vai ser um prazer conversar sobre a arquitetura.
 
 <div align="center">
 
-**Build · Integrate · Automate · Scale**
+**Construir · Integrar · Automatizar · Escalar**
 
-*Software engineering for problems that aren't simple.*
+*Engenharia de software para problemas que não são simples.*
 
 </div>
