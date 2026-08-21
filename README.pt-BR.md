@@ -179,13 +179,13 @@ Projetos open source que estou publicando, extraídos de trabalho real em produ�
   Os rótulos ficam em inglês de propósito — a action gera um bloco só.
 -->
 <!--START_SECTION:waka-->
-![Tempo de Código](http://img.shields.io/badge/Tempo%20de%20C%C3%B3digo-4%20h%209%20min-blue?style=flat)
+![Tempo de Código](http://img.shields.io/badge/Tempo%20de%20C%C3%B3digo-7%20h%2020%20min-blue?style=flat)
 
 **🐱 Meus dados no GitHub** 
 
-> 📦 58,7 kB usado no armazenamento do GitHub 
+> 📦 59,1 kB usado no armazenamento do GitHub 
  > 
-> 🏆 1.094 contribuições no ano de 2026
+> 🏆 1.096 contribuições no ano de 2026
  > 
 > 🚫 Não aberto para contratação
  > 
@@ -220,28 +220,28 @@ Domingo                  40 commits          ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Desconhecido             2 h 14 min          █████████████░░░░░░░░░░░░   53,71 % 
-Markdown                 0 h 31 min          ███░░░░░░░░░░░░░░░░░░░░░░   12,48 % 
-YAML                     0 h 28 min          ███░░░░░░░░░░░░░░░░░░░░░░   11,16 % 
-PHP                      0 h 24 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09,64 % 
-Python                   0 h 15 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06,19 % 
+Desconhecido             2 h 26 min          ████████░░░░░░░░░░░░░░░░░   33,27 % 
+Markdown                 1 h 38 min          ██████░░░░░░░░░░░░░░░░░░░   22,30 % 
+PHP                      1 h 9 min           ████░░░░░░░░░░░░░░░░░░░░░   15,78 % 
+Python                   0 h 56 min          ███░░░░░░░░░░░░░░░░░░░░░░   12,69 % 
+YAML                     0 h 28 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06,31 % 
 
 🔥 Editores: 
-Opus                     2 h 51 min          █████████████████░░░░░░░░   68,76 % 
-Phpstorm                 1 h 3 min           ██████░░░░░░░░░░░░░░░░░░░   25,31 % 
-Notion                   0 h 8 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03,09 % 
-Webstorm                 0 h 5 min           █░░░░░░░░░░░░░░░░░░░░░░░░   02,05 % 
-Claude                   0 h 2 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00,66 % 
+Claude-code              4 h 10 min          ██████████████░░░░░░░░░░░   56,76 % 
+Claude                   1 h 19 min          █████░░░░░░░░░░░░░░░░░░░░   18,01 % 
+Phpstorm                 1 h 5 min           ████░░░░░░░░░░░░░░░░░░░░░   14,77 % 
+Postman                  0 h 20 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04,61 % 
+Notion                   0 h 19 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04,31 % 
 
 🐱‍💻 Projetos: 
-davidsonalencar          2 h 27 min          ███████████████░░░░░░░░░░   58,98 % 
-e-commerce - Laravel     0 h 54 min          █████░░░░░░░░░░░░░░░░░░░░   21,76 % 
-trades                   0 h 33 min          ███░░░░░░░░░░░░░░░░░░░░░░   13,10 % 
-bnportal-cli             0 h 13 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05,15 % 
-davidson                 0 h 3 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   01,01 % 
+davidsonalencar          2 h 28 min          ████████░░░░░░░░░░░░░░░░░   33,65 % 
+trades                   2 h 27 min          ████████░░░░░░░░░░░░░░░░░   33,40 % 
+e-commerce - Laravel     2 h 10 min          ███████░░░░░░░░░░░░░░░░░░   29,45 % 
+bnportal-cli             0 h 13 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02,91 % 
+davidson                 0 h 3 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00,57 % 
 
 💻 Sistema operacional: 
-Macos                    4 h 9 min           █████████████████████████   100,00 % 
+Macos                    7 h 20 min          █████████████████████████   100,00 % 
 ```
 
 🤖 **Programação com IA esta semana** 
@@ -251,7 +251,7 @@ Nenhuma atividade de programação com IA registrada esta semana
 ```
 
 
- Última atualização em 20/08/2026 19:08:45 UTC
+ Última atualização em 21/08/2026 19:04:56 UTC
 <!--END_SECTION:waka-->
 
 <!-- Card de stats desativado — ver a nota no README.md. -->
