@@ -23,21 +23,13 @@ jobs:
 
           # Backend de time tracking. Default = wakatime.com.
           #
-          # Arquitetura (desde 22/08/2026): os plugins (PhpStorm, app do macOS,
-          # Claude Code) enviam para o Wakapi — api_url do ~/.wakatime.cfg —,
-          # que é o dono dos dados (retenção ilimitada, export). O Wakapi
-          # repassa cada heartbeat ao wakatime.com pelo relay (Settings ->
-          # Integrations -> WakaTime). Esta action LÊ do wakatime.com porque:
-          #   - o bloco "AI Coding This Week" e o badge "AI Code Time" vêm da
-          #     categoria "AI Coding" e dos campos ai_sessions, ai_input_tokens
-          #     etc. do /stats. O Wakapi não agrega esses campos e devolve a
-          #     categoria como "ai coding" (a action compara exato) — com ele
-          #     o bloco sai sempre "No AI Coding Activity";
-          #   - o wakatime.com devolve nomes e durações prontos ("PhpStorm",
-          #     "Mac", "1 hr 53 mins"); o Wakapi devolve crus ("Phpstorm",
-          #     "Macos", "1 hrs 53 mins");
-          #   - heartbeats de app sem arquivo (sessões do Claude, Postman,
-          #     Notion) viram a linguagem "Unknown" no Wakapi, no topo da lista.
+          # Os plugins enviam para o Wakapi (api_url do ~/.wakatime.cfg), que
+          # guarda os dados sem limite de retenção e repassa cada heartbeat ao
+          # wakatime.com pelo relay (Settings -> Integrations -> WakaTime).
+          # Esta action lê do wakatime.com: nomes e durações vêm prontos
+          # ("PhpStorm", "Mac", "1 hr 53 mins"), enquanto o Wakapi devolve
+          # crus ("Phpstorm", "Macos", "1 hrs 53 mins") e lista heartbeats
+          # sem arquivo (apps) como linguagem "Unknown".
           #
           # O plano free do WakaTime serve /stats/last_7_days e /stats/all_time
           # normalmente (all_time vem desde o primeiro heartbeat, com
@@ -117,10 +109,10 @@ jobs:
           # saem vazios (ou o job falha) — nesse caso volte tudo para False.
           # ---------------------------------------------------------------
           SHOW_TOTAL_CODE_TIME: "True"   # badge "Code Time" (/stats/all_time)
-          SHOW_AI_CODE_TIME: "True"      # badge "AI Code Time" (categoria "AI Coding" do all_time)
-          SHOW_AI_CODING: "True"         # bloco "AI Coding This Week" (campos ai_* do last_7_days)
+          SHOW_AI_CODE_TIME: "False"
+          SHOW_AI_CODING: "False"
           SHOW_LANGUAGE: "True"
-          SHOW_EDITORS: "True"
+          SHOW_EDITORS: "False"
           SHOW_OS: "True"
           SHOW_PROJECTS: "True"
           SHOW_TIMEZONE: "True"
@@ -144,8 +136,8 @@ jobs:
   #
   # O LOCALE acima também é global por execução: uma run não consegue gerar
   # inglês no README.md e português/espanhol nas traduções. E strings como
-  # "Code Time", "commits", "Last Updated on", "hrs"/"mins" e o bloco de IA
-  # são hardcoded na action — ficam em inglês em QUALQUER locale. Por isso o
+  # "Code Time", "commits", "Last Updated on" e "hrs"/"mins" são hardcoded
+  # na action — ficam em inglês em QUALQUER locale. Por isso o
   # script abaixo também traduz o bloco enquanto copia.
   # ------------------------------------------------------------------
   sync-translations:
