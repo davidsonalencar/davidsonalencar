@@ -30,7 +30,7 @@ jobs:
           # ilimitada). Para voltar ao wakatime.com basta comentar a linha
           # abaixo. Em ambos os casos o api_url do ~/.wakatime.cfg do PyCharm
           # tem que apontar para o mesmo lugar — o plugin é o mesmo.
-          WAKATIME_API_URL: "https://wakapi.dev/api/v1/"
+#          WAKATIME_API_URL: "https://wakapi.dev/api/v1/"
 
           # ---------------------------------------------------------------
           # Dois tokens, de propósito.
