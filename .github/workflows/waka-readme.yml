@@ -22,15 +22,32 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
           # Backend de time tracking. Default = wakatime.com.
-          # O plano free do WakaTime expõe apenas 14 dias via API, e esta action
-          # consulta /users/current/stats/all_time — ou seja, "total code time"
-          # fica capado no free.
           #
-          # Por isso o backend aqui é o Wakapi (open source, retenção
-          # ilimitada). Para voltar ao wakatime.com basta comentar a linha
-          # abaixo. Em ambos os casos o api_url do ~/.wakatime.cfg do PyCharm
-          # tem que apontar para o mesmo lugar — o plugin é o mesmo.
-          WAKATIME_API_URL: "https://wakapi.dev/api/v1/"
+          # Arquitetura (desde 22/08/2026): os plugins (PhpStorm, app do macOS,
+          # Claude Code) enviam para o Wakapi — api_url do ~/.wakatime.cfg —,
+          # que é o dono dos dados (retenção ilimitada, export). O Wakapi
+          # repassa cada heartbeat ao wakatime.com pelo relay (Settings ->
+          # Integrations -> WakaTime). Esta action LÊ do wakatime.com porque:
+          #   - o bloco "AI Coding This Week" e o badge "AI Code Time" vêm da
+          #     categoria "AI Coding" e dos campos ai_sessions, ai_input_tokens
+          #     etc. do /stats. O Wakapi não agrega esses campos e devolve a
+          #     categoria como "ai coding" (a action compara exato) — com ele
+          #     o bloco sai sempre "No AI Coding Activity";
+          #   - o wakatime.com devolve nomes e durações prontos ("PhpStorm",
+          #     "Mac", "1 hr 53 mins"); o Wakapi devolve crus ("Phpstorm",
+          #     "Macos", "1 hrs 53 mins");
+          #   - heartbeats de app sem arquivo (sessões do Claude, Postman,
+          #     Notion) viram a linguagem "Unknown" no Wakapi, no topo da lista.
+          #
+          # O plano free do WakaTime serve /stats/last_7_days e /stats/all_time
+          # normalmente (all_time vem desde o primeiro heartbeat, com
+          # is_up_to_date: true). O que o free limita a 2 semanas é o dashboard
+          # e o /summaries, que esta action não usa.
+          #
+          # Para ler do Wakapi: descomentar a linha abaixo E trocar o secret
+          # WAKATIME_API_KEY pela chave do Wakapi — as chaves não são
+          # intercambiáveis, cada backend responde 401 para a chave do outro.
+          # WAKATIME_API_URL: "https://wakapi.dev/api/v1/"
 
           # ---------------------------------------------------------------
           # Dois tokens, de propósito.
@@ -90,18 +107,18 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
 
           # ---------------------------------------------------------------
-          # Dependem do WakaTime/Wakapi. Ligados desde já, de propósito:
-          # os números começam pequenos e vão engordando dia a dia, o que
-          # é justamente o que dá para acompanhar.
+          # Dependem do WakaTime.
           #
           # Janela de dados: a action consulta /stats/last_7_days, ou seja
           # SEMPRE os últimos 7 dias corridos (janela móvel, não semana
-          # calendário). Só SHOW_TOTAL_CODE_TIME usa /stats/all_time.
+          # calendário). Só os dois badges usam /stats/all_time.
           #
           # Se o WAKATIME_API_KEY ainda não estiver configurado, estes blocos
           # saem vazios (ou o job falha) — nesse caso volte tudo para False.
           # ---------------------------------------------------------------
-          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_TOTAL_CODE_TIME: "True"   # badge "Code Time" (/stats/all_time)
+          SHOW_AI_CODE_TIME: "True"      # badge "AI Code Time" (categoria "AI Coding" do all_time)
+          SHOW_AI_CODING: "True"         # bloco "AI Coding This Week" (campos ai_* do last_7_days)
           SHOW_LANGUAGE: "True"
           SHOW_EDITORS: "True"
           SHOW_OS: "True"

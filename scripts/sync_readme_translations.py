@@ -110,6 +110,7 @@ RULES = [
         {"pt-BR": "Nenhuma atividade rastreada esta semana", "es": "Sin actividad registrada esta semana"},
     ),
     ("AI Coding This Week", {"pt-BR": "Programação com IA esta semana", "es": "Programación con IA esta semana"}),
+    ("AI Coding Time", {"pt-BR": "Tempo de programação com IA", "es": "Tiempo de programación con IA"}),
     ("AI Coding Insights", {"pt-BR": "Análise da programação com IA", "es": "Análisis de la programación con IA"}),
     (
         r"(\S+) lines written by AI, (\S+) lines written by hand \((\S+)% AI-written\)",
@@ -129,6 +130,35 @@ RULES = [
     (
         r"(\S+) Input Tokens, (\S+) Output Tokens",
         {"pt-BR": r"\1 tokens de entrada, \2 tokens de saída", "es": r"\1 tokens de entrada, \2 tokens de salida"},
+    ),
+    # Model breakdown rows ("Opus  7,984 lines"); after the "lines written" rule above.
+    (r"\b([\d,.]+) lines\b", {"pt-BR": r"\1 linhas", "es": r"\1 líneas"}),
+    # -- AI insights: "<label> — <detail>" lines -----------------------------
+    ("AI-Driven", {"pt-BR": "Guiado por IA", "es": "Impulsado por IA"}),
+    ("Balanced with AI", {"pt-BR": "Equilibrado com IA", "es": "Equilibrado con IA"}),
+    ("Mostly Hands-On", {"pt-BR": "Majoritariamente manual", "es": "Mayormente manual"}),
+    ("Concise Prompter", {"pt-BR": "Prompts concisos", "es": "Prompts concisos"}),
+    ("Detailed Prompter", {"pt-BR": "Prompts detalhados", "es": "Prompts detallados"}),
+    ("Verbose Prompter", {"pt-BR": "Prompts extensos", "es": "Prompts extensos"}),
+    ("One-Shot Prompter", {"pt-BR": "Um prompt por sessão", "es": "Un prompt por sesión"}),
+    ("Iterative Prompter", {"pt-BR": "Prompts iterativos", "es": "Prompts iterativos"}),
+    ("Hands-On Reviewer", {"pt-BR": "Revisor atento", "es": "Revisor atento"}),
+    ("High AI Trust", {"pt-BR": "Alta confiança na IA", "es": "Alta confianza en la IA"}),
+    (
+        r"— (\S+)% of written lines came from AI",
+        {"pt-BR": r"— \1% das linhas escritas vieram da IA", "es": r"— \1% de las líneas escritas provinieron de la IA"},
+    ),
+    (
+        r"— average (\S+) characters per prompt",
+        {"pt-BR": r"— média de \1 caracteres por prompt", "es": r"— promedio de \1 caracteres por prompt"},
+    ),
+    (
+        r"— average (\S+) prompts per session",
+        {"pt-BR": r"— média de \1 prompts por sessão", "es": r"— promedio de \1 prompts por sesión"},
+    ),
+    (
+        r"— (\S+)% of changed lines were hand-edited",
+        {"pt-BR": r"— \1% das linhas alteradas foram editadas à mão", "es": r"— \1% de las líneas modificadas fueron editadas a mano"},
     ),
     # -- footer, durations, placeholder values -----------------------------
     ("Last Updated on", {"pt-BR": "Última atualização em", "es": "Última actualización el"}),
@@ -184,7 +214,7 @@ def translate_badge(line: str, locale: str) -> str:
 def translate_row(match, locale: str) -> str:
     """Translate a stats row and rebuild its fixed-width columns."""
     name = translate(match["name"].rstrip(), locale)
-    text = translate(match["text"].rstrip(), locale)
+    text = localize_numbers(translate(match["text"].rstrip(), locale))
     percent = localize_numbers(match["percent"])
     # Same truncation and padding as `make_list` in the action.
     return f"{name[:25]}{' ' * (25 - len(name))}{text}{' ' * (20 - len(text))}{match['bar']}   {percent}"
@@ -200,8 +230,8 @@ def translate_block(block: str, locale: str) -> str:
         elif BADGE.search(line) is not None:
             lines.append(translate_badge(line, locale))
         else:
-            # The "> " lines are the only prose carrying formatted numbers.
-            lines.append(translate(localize_numbers(line) if line.startswith(">") else line, locale))
+            # Prose lines ("> " info, AI block) carry formatted numbers too.
+            lines.append(translate(localize_numbers(line), locale))
     return "\n".join(lines)
 
 
