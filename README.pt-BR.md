@@ -179,13 +179,13 @@ Projetos open source que estou publicando, extraídos de trabalho real em produ�
   Os rótulos ficam em inglês de propósito — a action gera um bloco só.
 -->
 <!--START_SECTION:waka-->
-![Tempo de Código](http://img.shields.io/badge/Tempo%20de%20C%C3%B3digo-124%20h%2028%20min-blue?style=flat)
+![Tempo de Código](http://img.shields.io/badge/Tempo%20de%20C%C3%B3digo-132%20h%2015%20min-blue?style=flat)
 
 **🐱 Meus dados no GitHub** 
 
 > 📦 59,1 kB usado no armazenamento do GitHub 
  > 
-> 🏆 1.111 contribuições no ano de 2026
+> 🏆 1.113 contribuições no ano de 2026
  > 
 > 🚫 Não aberto para contratação
  > 
@@ -220,25 +220,24 @@ Domingo                  40 commits          ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Python                   4 h 39 min          █████████░░░░░░░░░░░░░░░░   36,13 % 
-Markdown                 3 h 42 min          ███████░░░░░░░░░░░░░░░░░░   28,81 % 
-PHP                      1 h 53 min          ████░░░░░░░░░░░░░░░░░░░░░   14,71 % 
-Outros                   1 h 22 min          ███░░░░░░░░░░░░░░░░░░░░░░   10,71 % 
-TypeScript               26 min              █░░░░░░░░░░░░░░░░░░░░░░░░   03,46 % 
+Python                   5 h 52 min          ███████░░░░░░░░░░░░░░░░░░   28,41 % 
+PHP                      5 h 47 min          ███████░░░░░░░░░░░░░░░░░░   28,06 % 
+Markdown                 5 h 34 min          ███████░░░░░░░░░░░░░░░░░░   27,01 % 
+Outros                   1 h 21 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06,60 % 
+TypeScript               32 min              █░░░░░░░░░░░░░░░░░░░░░░░░   02,65 % 
 
 🐱‍💻 Projetos: 
-trades                   7 h 47 min          ███████████████░░░░░░░░░░   60,47 % 
-snel                     3 h 19 min          ██████░░░░░░░░░░░░░░░░░░░   25,77 % 
-tradingView              1 h 35 min          ███░░░░░░░░░░░░░░░░░░░░░░   12,29 % 
-davidsonalencar          10 min              ░░░░░░░░░░░░░░░░░░░░░░░░░   01,35 % 
-davidson                 0 s                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00,13 % 
+trades                   10 h 35 min         █████████████░░░░░░░░░░░░   51,28 % 
+e-commerce - Laravel     8 h 12 min          ██████████░░░░░░░░░░░░░░░   39,73 % 
+tradingView              1 h 35 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07,66 % 
+davidsonalencar          16 min              ░░░░░░░░░░░░░░░░░░░░░░░░░   01,33 % 
 
 💻 Sistema operacional: 
-Mac                      12 h 53 min         █████████████████████████   100,00 % 
+Mac                      20 h 39 min         █████████████████████████   100,00 % 
 ```
 
 
- Última atualização em 22/08/2026 21:59:22 UTC
+ Última atualização em 22/08/2026 22:02:47 UTC
 <!--END_SECTION:waka-->
 
 <!-- Card de stats desativado — ver a nota no README.md. -->
