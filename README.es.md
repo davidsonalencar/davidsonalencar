@@ -189,7 +189,7 @@ Proyectos open source que estoy publicando, extraídos de trabajo real en produc
 
 > 📦 59,1 kB almacenamiento de GitHub utilizado 
  > 
-> 🏆 1.107 contribuciones durante el año 2026
+> 🏆 1.111 contribuciones durante el año 2026
  > 
 > 🚫 No abierto para contratación
  > 
@@ -200,21 +200,21 @@ Proyectos open source que estoy publicando, extraídos de trabajo real en produc
 **Soy diurno 🐤** 
 
 ```text
-🌞 Mañana                 37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12,21 % 
-🌆 Día                    141 commits         ████████████░░░░░░░░░░░░░   46,53 % 
-🌃 Tarde                  121 commits         ██████████░░░░░░░░░░░░░░░   39,93 % 
-🌙 Noche                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01,32 % 
+🌞 Mañana                 37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12,05 % 
+🌆 Día                    143 commits         ████████████░░░░░░░░░░░░░   46,58 % 
+🌃 Tarde                  123 commits         ██████████░░░░░░░░░░░░░░░   40,07 % 
+🌙 Noche                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01,30 % 
 ```
-📅 **Soy más productivo los Viernes** 
+📅 **Soy más productivo los Sábado** 
 
 ```text
-Lunes                    28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09,24 % 
-Martes                   40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13,20 % 
-Miércoles                40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13,20 % 
-Jueves                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10,23 % 
-Viernes                  63 commits          █████░░░░░░░░░░░░░░░░░░░░   20,79 % 
-Sábado                   61 commits          █████░░░░░░░░░░░░░░░░░░░░   20,13 % 
-Domingo                  40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13,20 % 
+Lunes                    28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09,12 % 
+Martes                   40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13,03 % 
+Miércoles                40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13,03 % 
+Jueves                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10,10 % 
+Viernes                  63 commits          █████░░░░░░░░░░░░░░░░░░░░   20,52 % 
+Sábado                   65 commits          █████░░░░░░░░░░░░░░░░░░░░   21,17 % 
+Domingo                  40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13,03 % 
 ```
 
 
@@ -249,27 +249,27 @@ Mac                      12 h 53 min         ███████████�
 🤖 **Programación con IA esta semana** 
 
 ```text
-⏱ AI Coding Time: 12 h 42 min (98.64%)
+⏱ Tiempo de programación con IA: 12 h 42 min (98,64%)
 
-✍️ 7,813 líneas escritas por IA, 0 líneas escritas a mano (100.0% provenientes de IA)
+✍️ 7.813 líneas escritas por IA, 0 líneas escritas a mano (100,0% provenientes de IA)
 
-🔤 6,203,230 tokens de entrada, 1,591,648 tokens de salida
+🔤 6.203.230 tokens de entrada, 1.591.648 tokens de salida
 
-💵 $236.27 de costo estimado de IA esta semana
+💵 $236,27 de costo estimado de IA esta semana
 
 🧠 37 sesiones de IA, 100 prompts de IA
 
-Opus                     7,984 lines         █████████████████████████   100,00 % 
+Opus                     7.984 líneas        █████████████████████████   100,00 % 
 
 🔎 Análisis de la programación con IA:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,309 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 Impulsado por IA — 100,0% de las líneas escritas provinieron de la IA
+📄 Prompts detallados — promedio de 1.309 caracteres por prompt
+🔁 Prompts iterativos — promedio de 3 prompts por sesión
+🚀 Alta confianza en la IA — 0,0% de las líneas modificadas fueron editadas a mano
 ```
 
 
- Última actualización el 22/08/2026 19:53:41 UTC
+ Última actualización el 22/08/2026 21:55:44 UTC
 <!--END_SECTION:waka-->
 
 <!-- Tarjeta de stats desactivada — ver la nota en README.md. -->
