@@ -181,8 +181,6 @@ Projetos open source que estou publicando, extraídos de trabalho real em produ�
 <!--START_SECTION:waka-->
 ![Tempo de Código](http://img.shields.io/badge/Tempo%20de%20C%C3%B3digo-124%20h%2028%20min-blue?style=flat)
 
-![Tempo de Código com IA](http://img.shields.io/badge/Tempo%20de%20C%C3%B3digo%20com%20IA-126%20h%2026%20min-blue?style=flat)
-
 **🐱 Meus dados no GitHub** 
 
 > 📦 59,1 kB usado no armazenamento do GitHub 
@@ -198,21 +196,21 @@ Projetos open source que estou publicando, extraídos de trabalho real em produ�
 **Eu sou diurno 🐤** 
 
 ```text
-🌞 Manhã                  37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12,05 % 
-🌆 Tarde                  143 commits         ████████████░░░░░░░░░░░░░   46,58 % 
-🌃 Noite                  123 commits         ██████████░░░░░░░░░░░░░░░   40,07 % 
-🌙 Madrugada              4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01,30 % 
+🌞 Manhã                  37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11,97 % 
+🌆 Tarde                  143 commits         ████████████░░░░░░░░░░░░░   46,28 % 
+🌃 Noite                  125 commits         ██████████░░░░░░░░░░░░░░░   40,45 % 
+🌙 Madrugada              4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01,29 % 
 ```
 📅 **Sou mais produtivo em Sábado** 
 
 ```text
-Segunda-Feira            28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09,12 % 
-Terça-Feira              40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13,03 % 
-Quarta-Feira             40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13,03 % 
-Quinta-Feira             31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10,10 % 
-Sexta-Feira              63 commits          █████░░░░░░░░░░░░░░░░░░░░   20,52 % 
-Sábado                   65 commits          █████░░░░░░░░░░░░░░░░░░░░   21,17 % 
-Domingo                  40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13,03 % 
+Segunda-Feira            28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09,06 % 
+Terça-Feira              40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12,94 % 
+Quarta-Feira             40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12,94 % 
+Quinta-Feira             31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10,03 % 
+Sexta-Feira              63 commits          █████░░░░░░░░░░░░░░░░░░░░   20,39 % 
+Sábado                   67 commits          █████░░░░░░░░░░░░░░░░░░░░   21,68 % 
+Domingo                  40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12,94 % 
 ```
 
 
@@ -228,11 +226,6 @@ PHP                      1 h 53 min          ████░░░░░░░�
 Outros                   1 h 22 min          ███░░░░░░░░░░░░░░░░░░░░░░   10,71 % 
 TypeScript               26 min              █░░░░░░░░░░░░░░░░░░░░░░░░   03,46 % 
 
-🔥 Editores: 
-Claude Code              12 h 42 min         █████████████████████████   98,60 % 
-PhpStorm                 7 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01,00 % 
-PyCharm                  3 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00,40 % 
-
 🐱‍💻 Projetos: 
 trades                   7 h 47 min          ███████████████░░░░░░░░░░   60,47 % 
 snel                     3 h 19 min          ██████░░░░░░░░░░░░░░░░░░░   25,77 % 
@@ -244,30 +237,8 @@ davidson                 0 s                 ░░░░░░░░░░░�
 Mac                      12 h 53 min         █████████████████████████   100,00 % 
 ```
 
-🤖 **Programação com IA esta semana** 
 
-```text
-⏱ Tempo de programação com IA: 12 h 42 min (98,64%)
-
-✍️ 7.813 linhas escritas por IA, 0 linhas escritas à mão (100,0% vindas de IA)
-
-🔤 6.203.230 tokens de entrada, 1.591.648 tokens de saída
-
-💵 $236,27 de custo estimado de IA esta semana
-
-🧠 37 sessões de IA, 100 prompts de IA
-
-Opus                     7.984 linhas        █████████████████████████   100,00 % 
-
-🔎 Análise da programação com IA:
-🤖 Guiado por IA — 100,0% das linhas escritas vieram da IA
-📄 Prompts detalhados — média de 1.309 caracteres por prompt
-🔁 Prompts iterativos — média de 3 prompts por sessão
-🚀 Alta confiança na IA — 0,0% das linhas alteradas foram editadas à mão
-```
-
-
- Última atualização em 22/08/2026 21:55:44 UTC
+ Última atualização em 22/08/2026 21:56:57 UTC
 <!--END_SECTION:waka-->
 
 <!-- Card de stats desativado — ver a nota no README.md. -->
