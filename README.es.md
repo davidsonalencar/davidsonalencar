@@ -249,23 +249,23 @@ Mac                      12 h 53 min         ███████████�
 🤖 **Programación con IA esta semana** 
 
 ```text
-⏱ Tiempo de programación con IA: 12 h 42 min (98,64%)
+⏱ AI Coding Time: 12 h 42 min (98.64%)
 
-✍️ 7.813 líneas escritas por IA, 0 líneas escritas a mano (100,0% provenientes de IA)
+✍️ 7,813 líneas escritas por IA, 0 líneas escritas a mano (100.0% provenientes de IA)
 
-🔤 6.203.230 tokens de entrada, 1.591.648 tokens de salida
+🔤 6,203,230 tokens de entrada, 1,591,648 tokens de salida
 
-💵 $236,27 de costo estimado de IA esta semana
+💵 $236.27 de costo estimado de IA esta semana
 
 🧠 37 sesiones de IA, 100 prompts de IA
 
-Opus                     7.984 líneas        █████████████████████████   100,00 % 
+Opus                     7,984 lines         █████████████████████████   100,00 % 
 
 🔎 Análisis de la programación con IA:
-🤖 Impulsado por IA — 100,0% de las líneas escritas provinieron de la IA
-📄 Prompts detallados — promedio de 1.309 caracteres por prompt
-🔁 Prompts iterativos — promedio de 3 prompts por sesión
-🚀 Alta confianza en la IA — 0,0% de las líneas modificadas fueron editadas a mano
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,309 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
