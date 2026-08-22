@@ -175,13 +175,13 @@ Open-source projects I'm publishing, extracted from real production work:
 ## By the numbers
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2054%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 58.7 kB Used in GitHub's Storage 
+> 📦 59.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,091 Contributions in the Year 2026
+> 🏆 1,105 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -192,21 +192,21 @@ Open-source projects I'm publishing, extracted from real production work:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-🌆 Daytime                139 commits         ████████████░░░░░░░░░░░░░   46.49 % 
-🌃 Evening                119 commits         ██████████░░░░░░░░░░░░░░░   39.80 % 
-🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+🌞 Morning                37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+🌆 Daytime                139 commits         ████████████░░░░░░░░░░░░░   46.18 % 
+🌃 Evening                121 commits         ██████████░░░░░░░░░░░░░░░   40.20 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-Tuesday                  40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Wednesday                38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Thursday                 31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Friday                   63 commits          █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-Saturday                 59 commits          █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-Sunday                   40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Monday                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Tuesday                  40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Wednesday                40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Thursday                 31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Friday                   63 commits          █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+Saturday                 59 commits          █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+Sunday                   40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
 ```
 
 
@@ -216,28 +216,28 @@ Sunday                   40 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Unknown                  1 hrs 27 mins       ████████████████░░░░░░░░░   65.35 % 
-YAML                     0 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Markdown                 0 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Gitignore file           0 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-Typescript               0 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Unknown                  2 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   30.16 % 
+PHP                      2 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+Markdown                 2 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+Python                   0 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+YAML                     0 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
 
 🔥 Editors: 
-Opus                     1 hrs 19 mins       ███████████████░░░░░░░░░░   59.32 % 
-Phpstorm                 0 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   30.61 % 
-Notion                   0 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-Webstorm                 0 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Claude                   0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Claude-code              4 hrs 10 mins       ███████████░░░░░░░░░░░░░░   42.08 % 
+Claude                   3 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   34.50 % 
+Phpstorm                 1 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Notion                   0 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Postman                  0 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 
 🐱‍💻 Projects: 
-davidsonalencar          1 hrs 54 mins       ██████████████████████░░░   86.10 % 
-bnportal-cli             0 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-e-commerce - Laravel     0 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-davidson                 0 hrs 3 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-trades                   0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+e-commerce - Laravel     4 hrs 43 mins       ████████████░░░░░░░░░░░░░   47.66 % 
+davidsonalencar          2 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
+trades                   2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
+bnportal-cli             0 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+davidson                 0 hrs 3 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 💻 Operating System: 
-Macos                    2 hrs 13 mins       █████████████████████████   100.00 % 
+Macos                    9 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -247,7 +247,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 19/08/2026 22:03:00 UTC
+ Last Updated on 22/08/2026 18:54:48 UTC
 <!--END_SECTION:waka-->
 
 <!--
