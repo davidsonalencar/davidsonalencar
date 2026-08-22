@@ -179,15 +179,13 @@ Projetos open source que estou publicando, extraídos de trabalho real em produ�
   Os rótulos ficam em inglês de propósito — a action gera um bloco só.
 -->
 <!--START_SECTION:waka-->
-![Tempo de Código](http://img.shields.io/badge/Tempo%20de%20C%C3%B3digo-124%20h%2028%20min-blue?style=flat)
-
-![Tempo de Código com IA](http://img.shields.io/badge/Tempo%20de%20C%C3%B3digo%20com%20IA-126%20h%2026%20min-blue?style=flat)
+![Tempo de Código](http://img.shields.io/badge/Tempo%20de%20C%C3%B3digo-10%20h%2034%20min-blue?style=flat)
 
 **🐱 Meus dados no GitHub** 
 
 > 📦 59,1 kB usado no armazenamento do GitHub 
  > 
-> 🏆 1.107 contribuições no ano de 2026
+> 🏆 1.109 contribuições no ano de 2026
  > 
 > 🚫 Não aberto para contratação
  > 
@@ -198,21 +196,21 @@ Projetos open source que estou publicando, extraídos de trabalho real em produ�
 **Eu sou diurno 🐤** 
 
 ```text
-🌞 Manhã                  37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12,21 % 
-🌆 Tarde                  141 commits         ████████████░░░░░░░░░░░░░   46,53 % 
-🌃 Noite                  121 commits         ██████████░░░░░░░░░░░░░░░   39,93 % 
-🌙 Madrugada              4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01,32 % 
+🌞 Manhã                  37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12,13 % 
+🌆 Tarde                  143 commits         ████████████░░░░░░░░░░░░░   46,89 % 
+🌃 Noite                  121 commits         ██████████░░░░░░░░░░░░░░░   39,67 % 
+🌙 Madrugada              4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01,31 % 
 ```
 📅 **Sou mais produtivo em Sexta-Feira** 
 
 ```text
-Segunda-Feira            28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09,24 % 
-Terça-Feira              40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13,20 % 
-Quarta-Feira             40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13,20 % 
-Quinta-Feira             31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10,23 % 
-Sexta-Feira              63 commits          █████░░░░░░░░░░░░░░░░░░░░   20,79 % 
-Sábado                   61 commits          █████░░░░░░░░░░░░░░░░░░░░   20,13 % 
-Domingo                  40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13,20 % 
+Segunda-Feira            28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09,18 % 
+Terça-Feira              40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13,11 % 
+Quarta-Feira             40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13,11 % 
+Quinta-Feira             31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10,16 % 
+Sexta-Feira              63 commits          █████░░░░░░░░░░░░░░░░░░░░   20,66 % 
+Sábado                   63 commits          █████░░░░░░░░░░░░░░░░░░░░   20,66 % 
+Domingo                  40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13,11 % 
 ```
 
 
@@ -222,52 +220,38 @@ Domingo                  40 commits          ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Python                   4 h 39 min          █████████░░░░░░░░░░░░░░░░   36,13 % 
-Markdown                 3 h 42 min          ███████░░░░░░░░░░░░░░░░░░   28,81 % 
-PHP                      1 h 53 min          ████░░░░░░░░░░░░░░░░░░░░░   14,71 % 
-Outros                   1 h 22 min          ███░░░░░░░░░░░░░░░░░░░░░░   10,71 % 
-TypeScript               26 min              █░░░░░░░░░░░░░░░░░░░░░░░░   03,46 % 
+Desconhecido             3 h 4 min           ███████░░░░░░░░░░░░░░░░░░   29,07 % 
+PHP                      2 h 52 min          ███████░░░░░░░░░░░░░░░░░░   27,16 % 
+Markdown                 2 h 25 min          ██████░░░░░░░░░░░░░░░░░░░   22,95 % 
+Python                   0 h 56 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08,83 % 
+YAML                     0 h 33 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05,17 % 
 
 🔥 Editores: 
-Claude Code              12 h 42 min         █████████████████████████   98,60 % 
-PhpStorm                 7 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01,00 % 
-PyCharm                  3 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00,40 % 
+Claude-code              4 h 10 min          ██████████░░░░░░░░░░░░░░░   39,39 % 
+Claude                   3 h 52 min          █████████░░░░░░░░░░░░░░░░   36,57 % 
+Phpstorm                 1 h 43 min          ████░░░░░░░░░░░░░░░░░░░░░   16,19 % 
+Notion                   0 h 23 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03,55 % 
+Postman                  0 h 20 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03,20 % 
 
 🐱‍💻 Projetos: 
-trades                   7 h 47 min          ███████████████░░░░░░░░░░   60,47 % 
-snel                     3 h 19 min          ██████░░░░░░░░░░░░░░░░░░░   25,77 % 
-tradingView              1 h 35 min          ███░░░░░░░░░░░░░░░░░░░░░░   12,29 % 
-davidsonalencar          10 min              ░░░░░░░░░░░░░░░░░░░░░░░░░   01,35 % 
-davidson                 0 s                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00,13 % 
+e-commerce - Laravel     5 h 7 min           ████████████░░░░░░░░░░░░░   48,43 % 
+davidsonalencar          2 h 44 min          ██████░░░░░░░░░░░░░░░░░░░   25,92 % 
+trades                   2 h 27 min          ██████░░░░░░░░░░░░░░░░░░░   23,19 % 
+bnportal-cli             0 h 13 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02,02 % 
+davidson                 0 h 3 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00,40 % 
 
 💻 Sistema operacional: 
-Mac                      12 h 53 min         █████████████████████████   100,00 % 
+Macos                    10 h 34 min         █████████████████████████   100,00 % 
 ```
 
 🤖 **Programação com IA esta semana** 
 
 ```text
-⏱ AI Coding Time: 12 h 42 min (98.64%)
-
-✍️ 7,813 linhas escritas por IA, 0 linhas escritas à mão (100.0% vindas de IA)
-
-🔤 6,203,230 tokens de entrada, 1,591,648 tokens de saída
-
-💵 $236.27 de custo estimado de IA esta semana
-
-🧠 37 sessões de IA, 100 prompts de IA
-
-Opus                     7,984 lines         █████████████████████████   100,00 % 
-
-🔎 Análise da programação com IA:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,309 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+Nenhuma atividade de programação com IA registrada esta semana
 ```
 
 
- Última atualização em 22/08/2026 19:53:41 UTC
+ Última atualização em 22/08/2026 20:00:21 UTC
 <!--END_SECTION:waka-->
 
 <!-- Card de stats desativado — ver a nota no README.md. -->
