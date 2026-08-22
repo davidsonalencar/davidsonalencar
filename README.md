@@ -175,13 +175,13 @@ Open-source projects I'm publishing, extracted from real production work:
 ## By the numbers
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%2015%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 59.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,111 Contributions in the Year 2026
+> 🏆 1,113 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -216,25 +216,24 @@ Sunday                   40 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   4 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   36.13 % 
-Markdown                 3 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   28.81 % 
-PHP                      1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Other                    1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-TypeScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Python                   5 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   28.41 % 
+PHP                      5 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   28.06 % 
+Markdown                 5 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   27.01 % 
+Other                    1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+TypeScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🐱‍💻 Projects: 
-trades                   7 hrs 47 mins       ███████████████░░░░░░░░░░   60.47 % 
-snel                     3 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
-tradingView              1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-davidsonalencar          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-davidson                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+trades                   10 hrs 35 mins      █████████████░░░░░░░░░░░░   51.28 % 
+e-commerce - Laravel     8 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   39.73 % 
+tradingView              1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+davidsonalencar          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 💻 Operating System: 
-Mac                      12 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/08/2026 21:59:22 UTC
+ Last Updated on 22/08/2026 22:02:47 UTC
 <!--END_SECTION:waka-->
 
 <!--
