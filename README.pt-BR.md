@@ -185,7 +185,7 @@ Projetos open source que estou publicando, extraídos de trabalho real em produ�
 
 > 📦 55,9 kB usado no armazenamento do GitHub 
  > 
-> 🏆 1.123 contribuições no ano de 2026
+> 🏆 1.129 contribuições no ano de 2026
  > 
 > 🚫 Não aberto para contratação
  > 
@@ -220,24 +220,25 @@ Domingo                  40 commits          ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-PHP                      6 h 53 min          █████████░░░░░░░░░░░░░░░░   34,95 % 
-Markdown                 5 h 32 min          ███████░░░░░░░░░░░░░░░░░░   28,11 % 
-Python                   3 h 41 min          █████░░░░░░░░░░░░░░░░░░░░   18,69 % 
-Outros                   1 h 19 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06,68 % 
-YAML                     41 min              █░░░░░░░░░░░░░░░░░░░░░░░░   03,47 % 
+PHP                      5 h 46 min          █████████░░░░░░░░░░░░░░░░   34,10 % 
+Markdown                 4 h 56 min          ███████░░░░░░░░░░░░░░░░░░   29,25 % 
+Python                   3 h 31 min          █████░░░░░░░░░░░░░░░░░░░░   20,87 % 
+YAML                     37 min              █░░░░░░░░░░░░░░░░░░░░░░░░   03,69 % 
+Outros                   35 min              █░░░░░░░░░░░░░░░░░░░░░░░░   03,50 % 
 
 🐱‍💻 Projetos: 
-e-commerce - Laravel     10 h 55 min         ██████████████░░░░░░░░░░░   55,38 % 
-trades                   6 h 16 min          ████████░░░░░░░░░░░░░░░░░   31,83 % 
-tradingView              1 h 32 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07,80 % 
-davidsonalencar          59 min              █░░░░░░░░░░░░░░░░░░░░░░░░   04,98 % 
+e-commerce - Laravel     9 h 27 min          ██████████████░░░░░░░░░░░   55,86 % 
+trades                   5 h 37 min          ████████░░░░░░░░░░░░░░░░░   33,29 % 
+davidsonalencar          59 min              █░░░░░░░░░░░░░░░░░░░░░░░░   05,81 % 
+tradingView              47 min              █░░░░░░░░░░░░░░░░░░░░░░░░   04,66 % 
+cid8-manager             3 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00,38 % 
 
 💻 Sistema operacional: 
-Mac                      19 h 43 min         █████████████████████████   100,00 % 
+Mac                      16 h 55 min         █████████████████████████   100,00 % 
 ```
 
 
- Última atualização em 24/08/2026 19:08:33 UTC
+ Última atualização em 25/08/2026 19:06:56 UTC
 <!--END_SECTION:waka-->
 
 <!-- Card de stats desativado — ver a nota no README.md. -->
