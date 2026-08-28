@@ -179,13 +179,13 @@ Projetos open source que estou publicando, extraídos de trabalho real em produ�
   Os rótulos ficam em inglês de propósito — a action gera um bloco só.
 -->
 <!--START_SECTION:waka-->
-![Tempo de Código](http://img.shields.io/badge/Tempo%20de%20C%C3%B3digo-135%20h%2058%20min-blue?style=flat)
+![Tempo de Código](http://img.shields.io/badge/Tempo%20de%20C%C3%B3digo-137%20h%2052%20min-blue?style=flat)
 
 **🐱 Meus dados no GitHub** 
 
-> 📦 55,9 kB usado no armazenamento do GitHub 
+> 📦 56,0 kB usado no armazenamento do GitHub 
  > 
-> 🏆 1.132 contribuições no ano de 2026
+> 🏆 1.133 contribuições no ano de 2026
  > 
 > 🚫 Não aberto para contratação
  > 
@@ -220,25 +220,25 @@ Domingo                  40 commits          ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-PHP                      5 h 49 min          ███████████░░░░░░░░░░░░░░   43,88 % 
-Markdown                 3 h 30 min          ███████░░░░░░░░░░░░░░░░░░   26,40 % 
-Python                   1 h 19 min          ███░░░░░░░░░░░░░░░░░░░░░░   10,02 % 
-YAML                     39 min              █░░░░░░░░░░░░░░░░░░░░░░░░   05,01 % 
-CSS                      28 min              █░░░░░░░░░░░░░░░░░░░░░░░░   03,58 % 
+PHP                      3 h 14 min          ████████░░░░░░░░░░░░░░░░░   30,61 % 
+Markdown                 2 h 57 min          ███████░░░░░░░░░░░░░░░░░░   28,04 % 
+Python                   57 min              ██░░░░░░░░░░░░░░░░░░░░░░░   09,09 % 
+TypeScript               48 min              ██░░░░░░░░░░░░░░░░░░░░░░░   07,67 % 
+CSS                      28 min              █░░░░░░░░░░░░░░░░░░░░░░░░   04,49 % 
 
 🐱‍💻 Projetos: 
-e-commerce - Laravel     8 h 37 min          ████████████████░░░░░░░░░   65,03 % 
-trades                   3 h 11 min          ██████░░░░░░░░░░░░░░░░░░░   24,06 % 
-davidsonalencar          59 min              ██░░░░░░░░░░░░░░░░░░░░░░░   07,42 % 
-cid8-manager             17 min              █░░░░░░░░░░░░░░░░░░░░░░░░   02,14 % 
-bnportal-cli             10 min              ░░░░░░░░░░░░░░░░░░░░░░░░░   01,30 % 
+e-commerce - Laravel     6 h 2 min           ██████████████░░░░░░░░░░░   57,12 % 
+trades                   2 h 14 min          █████░░░░░░░░░░░░░░░░░░░░   21,26 % 
+bnportal                 1 h 3 min           ███░░░░░░░░░░░░░░░░░░░░░░   10,02 % 
+davidsonalencar          42 min              ██░░░░░░░░░░░░░░░░░░░░░░░   06,71 % 
+cid8-manager             17 min              █░░░░░░░░░░░░░░░░░░░░░░░░   02,68 % 
 
 💻 Sistema operacional: 
-Mac                      13 h 15 min         █████████████████████████   100,00 % 
+Mac                      10 h 34 min         █████████████████████████   100,00 % 
 ```
 
 
- Última atualização em 26/08/2026 20:20:17 UTC
+ Última atualização em 28/08/2026 02:14:08 UTC
 <!--END_SECTION:waka-->
 
 <!-- Card de stats desativado — ver a nota no README.md. -->
