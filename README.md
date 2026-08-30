@@ -175,13 +175,13 @@ Open-source projects I'm publishing, extracted from real production work:
 ## By the numbers
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2037%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 56.5 kB Used in GitHub's Storage 
+> 📦 56.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,144 Contributions in the Year 2026
+> 🏆 1,148 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -216,25 +216,25 @@ Sunday                   40 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
-Markdown                 1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-PHP                      1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-textmate                 44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Python                   35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+TypeScript               1 hr 49 mins        ████████░░░░░░░░░░░░░░░░░   33.19 % 
+textmate                 42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Python                   37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+HTML                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 
 🐱‍💻 Projects: 
-e-commerce - Laravel     3 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   38.69 % 
-bnportal                 2 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   32.79 % 
-trades                   52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-davidsonalencar          42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-bnportal-cli             33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+bnportal                 2 hrs 50 mins       █████████████░░░░░░░░░░░░   51.67 % 
+trades                   1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+e-commerce - Laravel     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+bnportal-cli             33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+cid8-manager             17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 
 💻 Operating System: 
-Mac                      8 hrs 40 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/08/2026 21:01:51 UTC
+ Last Updated on 30/08/2026 21:16:54 UTC
 <!--END_SECTION:waka-->
 
 <!--
