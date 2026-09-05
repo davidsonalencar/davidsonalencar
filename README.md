@@ -175,13 +175,13 @@ Open-source projects I'm publishing, extracted from real production work:
 ## By the numbers
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2019%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 58.2 kB Used in GitHub's Storage 
+> 📦 58.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,183 Contributions in the Year 2026
+> 🏆 1,193 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -216,25 +216,25 @@ Sunday                   40 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               4 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   32.71 % 
-Python                   2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
-Text                     1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-HTML                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-JSON                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+TypeScript               4 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   33.14 % 
+Python                   2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Text                     2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+JSON                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+HTML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 
 🐱‍💻 Projects: 
-daltrader                3 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   28.29 % 
-trades                   3 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   27.36 % 
-bnportal-cli             2 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-bnportal                 1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-cid8-manager             43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+daltrader                4 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   33.41 % 
+trades                   3 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+bnportal-cli             3 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   26.89 % 
+cid8-manager             43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+bnportal                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 
 💻 Operating System: 
-Mac                      12 hrs 50 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/09/2026 20:53:28 UTC
+ Last Updated on 05/09/2026 20:31:22 UTC
 <!--END_SECTION:waka-->
 
 <!--
