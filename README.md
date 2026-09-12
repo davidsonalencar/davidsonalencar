@@ -175,7 +175,7 @@ Open-source projects I'm publishing, extracted from real production work:
 ## By the numbers
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-162%20hrs%204%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -216,25 +216,25 @@ Sunday                   40 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               2 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
-PHP                      1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Python                   1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Other                    1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-JSON                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Python                   1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+TypeScript               1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+PHP                      1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Other                    1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Markdown                 46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
 
 🐱‍💻 Projects: 
-trades                   3 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.52 % 
-daltrader                3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
-e-commerce - Laravel     2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-bnportal-cli             1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-bnportal                 1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+trades                   3 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   35.90 % 
+daltrader                2 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+e-commerce - Laravel     2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+cid8-manager             51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+bnportal                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
 
 💻 Operating System: 
-Mac                      12 hrs 14 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/09/2026 21:05:26 UTC
+ Last Updated on 12/09/2026 20:43:02 UTC
 <!--END_SECTION:waka-->
 
 <!--
