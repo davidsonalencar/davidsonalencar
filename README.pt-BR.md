@@ -179,7 +179,7 @@ Projetos open source que estou publicando, extraídos de trabalho real em produ�
   Os rótulos ficam em inglês de propósito — a action gera um bloco só.
 -->
 <!--START_SECTION:waka-->
-![Tempo de Código](http://img.shields.io/badge/Tempo%20de%20C%C3%B3digo-162%20h%204%20min-blue?style=flat)
+![Tempo de Código](http://img.shields.io/badge/Tempo%20de%20C%C3%B3digo-162%20h%2053%20min-blue?style=flat)
 
 **🐱 Meus dados no GitHub** 
 
@@ -220,25 +220,25 @@ Domingo                  40 commits          ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Python                   1 h 59 min          █████░░░░░░░░░░░░░░░░░░░░   19,18 % 
-TypeScript               1 h 56 min          █████░░░░░░░░░░░░░░░░░░░░   18,73 % 
-PHP                      1 h 45 min          ████░░░░░░░░░░░░░░░░░░░░░   16,96 % 
-Outros                   1 h 41 min          ████░░░░░░░░░░░░░░░░░░░░░   16,30 % 
-Markdown                 46 min              ██░░░░░░░░░░░░░░░░░░░░░░░   07,55 % 
+Python                   1 h 50 min          █████░░░░░░░░░░░░░░░░░░░░   19,58 % 
+PHP                      1 h 45 min          █████░░░░░░░░░░░░░░░░░░░░   18,73 % 
+TypeScript               1 h 41 min          ████░░░░░░░░░░░░░░░░░░░░░   17,94 % 
+Outros                   1 h 27 min          ████░░░░░░░░░░░░░░░░░░░░░   15,59 % 
+Markdown                 35 min              ██░░░░░░░░░░░░░░░░░░░░░░░   06,25 % 
 
 🐱‍💻 Projetos: 
-trades                   3 h 43 min          █████████░░░░░░░░░░░░░░░░   35,90 % 
-daltrader                2 h 28 min          ██████░░░░░░░░░░░░░░░░░░░   23,94 % 
-e-commerce - Laravel     2 h 6 min           █████░░░░░░░░░░░░░░░░░░░░   20,32 % 
-cid8-manager             51 min              ██░░░░░░░░░░░░░░░░░░░░░░░   08,30 % 
-bnportal                 48 min              ██░░░░░░░░░░░░░░░░░░░░░░░   07,80 % 
+trades                   3 h 12 min          █████████░░░░░░░░░░░░░░░░   34,23 % 
+daltrader                2 h 8 min           ██████░░░░░░░░░░░░░░░░░░░   22,85 % 
+e-commerce - Laravel     2 h 6 min           ██████░░░░░░░░░░░░░░░░░░░   22,45 % 
+cid8-manager             51 min              ██░░░░░░░░░░░░░░░░░░░░░░░   09,17 % 
+bnportal                 48 min              ██░░░░░░░░░░░░░░░░░░░░░░░   08,61 % 
 
 💻 Sistema operacional: 
-Mac                      10 h 22 min         █████████████████████████   100,00 % 
+Mac                      9 h 23 min          █████████████████████████   100,00 % 
 ```
 
 
- Última atualização em 12/09/2026 20:43:02 UTC
+ Última atualização em 13/09/2026 20:59:29 UTC
 <!--END_SECTION:waka-->
 
 <!-- Card de stats desativado — ver a nota no README.md. -->
