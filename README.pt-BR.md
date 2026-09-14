@@ -183,9 +183,9 @@ Projetos open source que estou publicando, extraídos de trabalho real em produ�
 
 **🐱 Meus dados no GitHub** 
 
-> 📦 59,4 kB usado no armazenamento do GitHub 
+> 📦 60,7 kB usado no armazenamento do GitHub 
  > 
-> 🏆 1.207 contribuições no ano de 2026
+> 🏆 1.225 contribuições no ano de 2026
  > 
 > 🚫 Não aberto para contratação
  > 
@@ -220,25 +220,25 @@ Domingo                  40 commits          ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Python                   1 h 50 min          █████░░░░░░░░░░░░░░░░░░░░   19,58 % 
-PHP                      1 h 45 min          █████░░░░░░░░░░░░░░░░░░░░   18,73 % 
-TypeScript               1 h 41 min          ████░░░░░░░░░░░░░░░░░░░░░   17,94 % 
-Outros                   1 h 27 min          ████░░░░░░░░░░░░░░░░░░░░░   15,59 % 
-Markdown                 35 min              ██░░░░░░░░░░░░░░░░░░░░░░░   06,25 % 
+Python                   1 h 48 min          █████░░░░░░░░░░░░░░░░░░░░   21,10 % 
+PHP                      1 h 45 min          █████░░░░░░░░░░░░░░░░░░░░   20,46 % 
+Outros                   1 h 27 min          ████░░░░░░░░░░░░░░░░░░░░░   17,03 % 
+TypeScript               1 h 12 min          ████░░░░░░░░░░░░░░░░░░░░░   14,09 % 
+JSON                     26 min              █░░░░░░░░░░░░░░░░░░░░░░░░   05,23 % 
 
 🐱‍💻 Projetos: 
-trades                   3 h 12 min          █████████░░░░░░░░░░░░░░░░   34,23 % 
-daltrader                2 h 8 min           ██████░░░░░░░░░░░░░░░░░░░   22,85 % 
-e-commerce - Laravel     2 h 6 min           ██████░░░░░░░░░░░░░░░░░░░   22,45 % 
-cid8-manager             51 min              ██░░░░░░░░░░░░░░░░░░░░░░░   09,17 % 
-bnportal                 48 min              ██░░░░░░░░░░░░░░░░░░░░░░░   08,61 % 
+trades                   3 h 9 min           █████████░░░░░░░░░░░░░░░░   36,64 % 
+e-commerce - Laravel     2 h 6 min           ██████░░░░░░░░░░░░░░░░░░░   24,52 % 
+daltrader                1 h 25 min          ████░░░░░░░░░░░░░░░░░░░░░   16,51 % 
+cid8-manager             51 min              ██░░░░░░░░░░░░░░░░░░░░░░░   09,98 % 
+bnportal                 48 min              ██░░░░░░░░░░░░░░░░░░░░░░░   09,41 % 
 
 💻 Sistema operacional: 
-Mac                      9 h 23 min          █████████████████████████   100,00 % 
+Mac                      8 h 35 min          █████████████████████████   100,00 % 
 ```
 
 
- Última atualização em 13/09/2026 20:59:29 UTC
+ Última atualização em 14/09/2026 21:56:11 UTC
 <!--END_SECTION:waka-->
 
 <!-- Card de stats desativado — ver a nota no README.md. -->
