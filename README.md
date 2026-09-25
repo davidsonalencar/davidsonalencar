@@ -175,13 +175,13 @@ Open-source projects I'm publishing, extracted from real production work:
 ## By the numbers
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2054%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 60.8 kB Used in GitHub's Storage 
+> 📦 60.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,244 Contributions in the Year 2026
+> 🏆 1,246 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -216,25 +216,25 @@ Sunday                   40 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-PHP                      2 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   34.14 % 
-Python                   1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Markdown                 54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-INI                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+PHP                      1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+Python                   1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+Markdown                 54 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+INI                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
 
 🐱‍💻 Projects: 
-e-commerce - Laravel     3 hrs 31 mins       ████████████░░░░░░░░░░░░░   46.75 % 
-trades                   1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
-cid8-manager             52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-bnportal                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-daltrader                23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+e-commerce - Laravel     2 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   36.55 % 
+trades                   1 hr 53 mins        ███████░░░░░░░░░░░░░░░░░░   29.04 % 
+cid8-manager             51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+bnportal                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+daltrader                23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 
 💻 Operating System: 
-Mac                      7 hrs 33 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/09/2026 21:38:21 UTC
+ Last Updated on 25/09/2026 21:42:28 UTC
 <!--END_SECTION:waka-->
 
 <!--
