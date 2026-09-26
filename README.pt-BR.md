@@ -179,11 +179,11 @@ Projetos open source que estou publicando, extraídos de trabalho real em produ�
   Os rótulos ficam em inglês de propósito — a action gera um bloco só.
 -->
 <!--START_SECTION:waka-->
-![Tempo de Código](http://img.shields.io/badge/Tempo%20de%20C%C3%B3digo-172%20h%2054%20min-blue?style=flat)
+![Tempo de Código](http://img.shields.io/badge/Tempo%20de%20C%C3%B3digo-173%20h%201%20min-blue?style=flat)
 
 **🐱 Meus dados no GitHub** 
 
-> 📦 60,9 kB usado no armazenamento do GitHub 
+> 📦 60,6 kB usado no armazenamento do GitHub 
  > 
 > 🏆 1.246 contribuições no ano de 2026
  > 
@@ -220,25 +220,25 @@ Domingo                  40 commits          ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-PHP                      1 h 26 min          ██████░░░░░░░░░░░░░░░░░░░   22,14 % 
-Python                   1 h 14 min          █████░░░░░░░░░░░░░░░░░░░░   18,94 % 
-Markdown                 54 min              ████░░░░░░░░░░░░░░░░░░░░░   14,00 % 
-INI                      35 min              ██░░░░░░░░░░░░░░░░░░░░░░░   08,94 % 
-JSON                     32 min              ██░░░░░░░░░░░░░░░░░░░░░░░   08,34 % 
+Python                   1 h 14 min          ██████░░░░░░░░░░░░░░░░░░░   23,00 % 
+Markdown                 54 min              ████░░░░░░░░░░░░░░░░░░░░░   17,00 % 
+PHP                      37 min              ███░░░░░░░░░░░░░░░░░░░░░░   11,71 % 
+INI                      33 min              ███░░░░░░░░░░░░░░░░░░░░░░   10,50 % 
+JSON                     33 min              ███░░░░░░░░░░░░░░░░░░░░░░   10,37 % 
 
 🐱‍💻 Projetos: 
-e-commerce - Laravel     2 h 23 min          █████████░░░░░░░░░░░░░░░░   36,55 % 
-trades                   1 h 53 min          ███████░░░░░░░░░░░░░░░░░░   29,04 % 
-cid8-manager             51 min              ███░░░░░░░░░░░░░░░░░░░░░░   13,25 % 
-bnportal                 38 min              ██░░░░░░░░░░░░░░░░░░░░░░░   09,81 % 
-daltrader                23 min              █░░░░░░░░░░░░░░░░░░░░░░░░   05,88 % 
+trades                   1 h 53 min          █████████░░░░░░░░░░░░░░░░   35,26 % 
+e-commerce - Laravel     1 h 12 min          ██████░░░░░░░░░░░░░░░░░░░   22,43 % 
+cid8-manager             46 min              ████░░░░░░░░░░░░░░░░░░░░░   14,45 % 
+bnportal                 44 min              ███░░░░░░░░░░░░░░░░░░░░░░   13,93 % 
+daltrader                23 min              ██░░░░░░░░░░░░░░░░░░░░░░░   07,14 % 
 
 💻 Sistema operacional: 
-Mac                      6 h 31 min          █████████████████████████   100,00 % 
+Mac                      5 h 22 min          █████████████████████████   100,00 % 
 ```
 
 
- Última atualização em 25/09/2026 21:42:28 UTC
+ Última atualização em 26/09/2026 21:20:18 UTC
 <!--END_SECTION:waka-->
 
 <!-- Card de stats desativado — ver a nota no README.md. -->
