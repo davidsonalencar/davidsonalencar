@@ -175,7 +175,7 @@ Open-source projects I'm publishing, extracted from real production work:
 ## By the numbers
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-173%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-173%20hrs%208%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -216,25 +216,25 @@ Sunday                   40 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   1 hr 14 mins        ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
-Markdown                 54 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-PHP                      37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-INI                      33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-JSON                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Python                   1 hr 14 mins        ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+Markdown                 54 mins             █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+PHP                      34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+JSON                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+INI                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
 
 🐱‍💻 Projects: 
-trades                   1 hr 53 mins        █████████░░░░░░░░░░░░░░░░   35.26 % 
-e-commerce - Laravel     1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
-cid8-manager             46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-bnportal                 44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-daltrader                23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+trades                   1 hr 31 mins        ████████░░░░░░░░░░░░░░░░░   31.85 % 
+e-commerce - Laravel     59 mins             █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+cid8-manager             46 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+bnportal                 44 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+daltrader                23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
 
 💻 Operating System: 
-Mac                      5 hrs 22 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/09/2026 21:20:18 UTC
+ Last Updated on 27/09/2026 21:29:34 UTC
 <!--END_SECTION:waka-->
 
 <!--
