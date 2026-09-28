@@ -185,7 +185,7 @@ Projetos open source que estou publicando, extraídos de trabalho real em produ�
 
 > 📦 60,6 kB usado no armazenamento do GitHub 
  > 
-> 🏆 1.246 contribuições no ano de 2026
+> 🏆 1.248 contribuições no ano de 2026
  > 
 > 🚫 Não aberto para contratação
  > 
@@ -220,25 +220,25 @@ Domingo                  40 commits          ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Python                   1 h 14 min          ██████░░░░░░░░░░░░░░░░░░░   25,71 % 
-Markdown                 54 min              █████░░░░░░░░░░░░░░░░░░░░   19,00 % 
-PHP                      34 min              ███░░░░░░░░░░░░░░░░░░░░░░   11,80 % 
-JSON                     33 min              ███░░░░░░░░░░░░░░░░░░░░░░   11,59 % 
-INI                      25 min              ██░░░░░░░░░░░░░░░░░░░░░░░   08,99 % 
+Markdown                 53 min              █████░░░░░░░░░░░░░░░░░░░░   21,12 % 
+Python                   45 min              ████░░░░░░░░░░░░░░░░░░░░░   17,90 % 
+PHP                      34 min              ███░░░░░░░░░░░░░░░░░░░░░░   13,40 % 
+JSON                     33 min              ███░░░░░░░░░░░░░░░░░░░░░░   13,16 % 
+INI                      25 min              ███░░░░░░░░░░░░░░░░░░░░░░   10,20 % 
 
 🐱‍💻 Projetos: 
-trades                   1 h 31 min          ████████░░░░░░░░░░░░░░░░░   31,85 % 
-e-commerce - Laravel     59 min              █████░░░░░░░░░░░░░░░░░░░░   20,79 % 
-cid8-manager             46 min              ████░░░░░░░░░░░░░░░░░░░░░   16,21 % 
-bnportal                 44 min              ████░░░░░░░░░░░░░░░░░░░░░   15,58 % 
-daltrader                23 min              ██░░░░░░░░░░░░░░░░░░░░░░░   07,98 % 
+e-commerce - Laravel     59 min              ██████░░░░░░░░░░░░░░░░░░░   23,61 % 
+trades                   57 min              ██████░░░░░░░░░░░░░░░░░░░   22,60 % 
+cid8-manager             46 min              █████░░░░░░░░░░░░░░░░░░░░   18,41 % 
+bnportal                 44 min              ████░░░░░░░░░░░░░░░░░░░░░   17,69 % 
+daltrader                23 min              ██░░░░░░░░░░░░░░░░░░░░░░░   09,07 % 
 
 💻 Sistema operacional: 
-Mac                      4 h 48 min          █████████████████████████   100,00 % 
+Mac                      4 h 14 min          █████████████████████████   100,00 % 
 ```
 
 
- Última atualização em 27/09/2026 21:29:34 UTC
+ Última atualização em 28/09/2026 23:24:45 UTC
 <!--END_SECTION:waka-->
 
 <!-- Card de stats desativado — ver a nota no README.md. -->
