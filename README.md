@@ -179,9 +179,9 @@ Open-source projects I'm publishing, extracted from real production work:
 
 **🐱 My GitHub Data** 
 
-> 📦 60.6 kB Used in GitHub's Storage 
+> 📦 61.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,248 Contributions in the Year 2026
+> 🏆 1,257 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -216,25 +216,25 @@ Sunday                   40 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 53 mins             █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
-Python                   45 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-PHP                      34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-JSON                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-INI                      25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+JSON                     54 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Python                   52 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+textmate                 50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Markdown                 37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Jupyter                  35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
 
 🐱‍💻 Projects: 
-e-commerce - Laravel     59 mins             ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
-trades                   57 mins             ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
-cid8-manager             46 mins             █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-bnportal                 44 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-daltrader                23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+bnportal-cli             1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
+cid8-manager             1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
+bnportal                 50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+trades                   48 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+e-commerce - Laravel     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
 
 💻 Operating System: 
-Mac                      4 hrs 14 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/09/2026 23:24:45 UTC
+ Last Updated on 29/09/2026 22:27:14 UTC
 <!--END_SECTION:waka-->
 
 <!--
