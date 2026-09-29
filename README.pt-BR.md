@@ -183,9 +183,9 @@ Projetos open source que estou publicando, extraídos de trabalho real em produ�
 
 **🐱 Meus dados no GitHub** 
 
-> 📦 60,6 kB usado no armazenamento do GitHub 
+> 📦 61,8 kB usado no armazenamento do GitHub 
  > 
-> 🏆 1.248 contribuições no ano de 2026
+> 🏆 1.257 contribuições no ano de 2026
  > 
 > 🚫 Não aberto para contratação
  > 
@@ -220,25 +220,25 @@ Domingo                  40 commits          ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Markdown                 53 min              █████░░░░░░░░░░░░░░░░░░░░   21,12 % 
-Python                   45 min              ████░░░░░░░░░░░░░░░░░░░░░   17,90 % 
-PHP                      34 min              ███░░░░░░░░░░░░░░░░░░░░░░   13,40 % 
-JSON                     33 min              ███░░░░░░░░░░░░░░░░░░░░░░   13,16 % 
-INI                      25 min              ███░░░░░░░░░░░░░░░░░░░░░░   10,20 % 
+JSON                     54 min              ████░░░░░░░░░░░░░░░░░░░░░   17,58 % 
+Python                   52 min              ████░░░░░░░░░░░░░░░░░░░░░   17,05 % 
+textmate                 50 min              ████░░░░░░░░░░░░░░░░░░░░░   16,38 % 
+Markdown                 37 min              ███░░░░░░░░░░░░░░░░░░░░░░   12,13 % 
+Jupyter                  35 min              ███░░░░░░░░░░░░░░░░░░░░░░   11,34 % 
 
 🐱‍💻 Projetos: 
-e-commerce - Laravel     59 min              ██████░░░░░░░░░░░░░░░░░░░   23,61 % 
-trades                   57 min              ██████░░░░░░░░░░░░░░░░░░░   22,60 % 
-cid8-manager             46 min              █████░░░░░░░░░░░░░░░░░░░░   18,41 % 
-bnportal                 44 min              ████░░░░░░░░░░░░░░░░░░░░░   17,69 % 
-daltrader                23 min              ██░░░░░░░░░░░░░░░░░░░░░░░   09,07 % 
+bnportal-cli             1 h 19 min          ██████░░░░░░░░░░░░░░░░░░░   25,62 % 
+cid8-manager             1 h 9 min           ██████░░░░░░░░░░░░░░░░░░░   22,56 % 
+bnportal                 50 min              ████░░░░░░░░░░░░░░░░░░░░░   16,39 % 
+trades                   48 min              ████░░░░░░░░░░░░░░░░░░░░░   15,55 % 
+e-commerce - Laravel     38 min              ███░░░░░░░░░░░░░░░░░░░░░░   12,44 % 
 
 💻 Sistema operacional: 
-Mac                      4 h 14 min          █████████████████████████   100,00 % 
+Mac                      5 h 10 min          █████████████████████████   100,00 % 
 ```
 
 
- Última atualização em 28/09/2026 23:24:45 UTC
+ Última atualização em 29/09/2026 22:27:14 UTC
 <!--END_SECTION:waka-->
 
 <!-- Card de stats desativado — ver a nota no README.md. -->
