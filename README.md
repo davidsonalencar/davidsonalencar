@@ -175,13 +175,13 @@ Open-source projects I'm publishing, extracted from real production work:
 ## By the numbers
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-175%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%206%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 62.5 kB Used in GitHub's Storage 
+> 📦 63.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,265 Contributions in the Year 2026
+> 🏆 1,270 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -216,25 +216,25 @@ Sunday                   40 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   59 mins             ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
-Markdown                 42 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-textmate                 40 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-JSON                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-TypeScript               26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Python                   1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+Markdown                 42 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+textmate                 40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+JSON                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Bash                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
 
 🐱‍💻 Projects: 
-trades                   2 hrs 2 mins        ████████████░░░░░░░░░░░░░   48.65 % 
-bnportal-cli             1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   36.49 % 
-cid8-manager             23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-bnportal                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+trades                   2 hrs 24 mins       █████████████░░░░░░░░░░░░   52.85 % 
+bnportal-cli             1 hr 31 mins        ████████░░░░░░░░░░░░░░░░░   33.50 % 
+cid8-manager             23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+bnportal                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
 e-commerce - Laravel     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 10 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/10/2026 22:48:30 UTC
+ Last Updated on 02/10/2026 22:24:07 UTC
 <!--END_SECTION:waka-->
 
 <!--
