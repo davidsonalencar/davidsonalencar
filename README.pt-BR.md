@@ -179,7 +179,7 @@ Projetos open source que estou publicando, extraídos de trabalho real em produ�
   Os rótulos ficam em inglês de propósito — a action gera um bloco só.
 -->
 <!--START_SECTION:waka-->
-![Tempo de Código](http://img.shields.io/badge/Tempo%20de%20C%C3%B3digo-177%20h%206%20min-blue?style=flat)
+![Tempo de Código](http://img.shields.io/badge/Tempo%20de%20C%C3%B3digo-177%20h%2036%20min-blue?style=flat)
 
 **🐱 Meus dados no GitHub** 
 
@@ -220,25 +220,24 @@ Domingo                  40 commits          ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Python                   1 h 6 min           ██████░░░░░░░░░░░░░░░░░░░   24,27 % 
-Markdown                 42 min              ████░░░░░░░░░░░░░░░░░░░░░   15,73 % 
-textmate                 40 min              ████░░░░░░░░░░░░░░░░░░░░░   14,65 % 
-JSON                     31 min              ███░░░░░░░░░░░░░░░░░░░░░░   11,56 % 
-Bash                     30 min              ███░░░░░░░░░░░░░░░░░░░░░░   11,30 % 
+Markdown                 1 h 25 min          ███████░░░░░░░░░░░░░░░░░░   26,44 % 
+Python                   1 h 6 min           █████░░░░░░░░░░░░░░░░░░░░   20,47 % 
+textmate                 46 min              ████░░░░░░░░░░░░░░░░░░░░░   14,24 % 
+JSON                     37 min              ███░░░░░░░░░░░░░░░░░░░░░░   11,51 % 
+Bash                     30 min              ██░░░░░░░░░░░░░░░░░░░░░░░   09,53 % 
 
 🐱‍💻 Projetos: 
-trades                   2 h 24 min          █████████████░░░░░░░░░░░░   52,85 % 
-bnportal-cli             1 h 31 min          ████████░░░░░░░░░░░░░░░░░   33,50 % 
-cid8-manager             23 min              ██░░░░░░░░░░░░░░░░░░░░░░░   08,56 % 
-bnportal                 13 min              █░░░░░░░░░░░░░░░░░░░░░░░░   05,09 % 
-e-commerce - Laravel     0 s                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00,00 % 
+trades                   2 h 32 min          ████████████░░░░░░░░░░░░░   47,18 % 
+bnportal-cli             1 h 31 min          ███████░░░░░░░░░░░░░░░░░░   28,10 % 
+bnportal                 56 min              ████░░░░░░░░░░░░░░░░░░░░░   17,50 % 
+cid8-manager             23 min              ██░░░░░░░░░░░░░░░░░░░░░░░   07,22 % 
 
 💻 Sistema operacional: 
-Mac                      4 h 33 min          █████████████████████████   100,00 % 
+Mac                      5 h 24 min          █████████████████████████   100,00 % 
 ```
 
 
- Última atualização em 02/10/2026 22:24:07 UTC
+ Última atualização em 03/10/2026 21:32:05 UTC
 <!--END_SECTION:waka-->
 
 <!-- Card de stats desativado — ver a nota no README.md. -->
