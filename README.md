@@ -216,24 +216,25 @@ Sunday                   40 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   26.19 % 
-Python                   1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-textmate                 46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-JSON                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Bash                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Markdown                 1 hr 16 mins        █████████░░░░░░░░░░░░░░░░   34.07 % 
+Bash                     38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Python                   38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+TypeScript               23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+textmate                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
 
 🐱‍💻 Projects: 
-trades                   2 hrs 36 mins       ████████████░░░░░░░░░░░░░   47.72 % 
-bnportal-cli             1 hr 31 mins        ███████░░░░░░░░░░░░░░░░░░   27.84 % 
-bnportal                 56 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-cid8-manager             23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+trades                   1 hr 59 mins        █████████████░░░░░░░░░░░░   53.33 % 
+bnportal                 51 mins             ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+bnportal-cli             49 mins             ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+daltrader                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+cid8-manager             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      5 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/10/2026 00:12:24 UTC
+ Last Updated on 06/10/2026 22:43:20 UTC
 <!--END_SECTION:waka-->
 
 <!--
