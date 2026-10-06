@@ -179,7 +179,7 @@ Projetos open source que estou publicando, extraídos de trabalho real em produ�
   Os rótulos ficam em inglês de propósito — a action gera um bloco só.
 -->
 <!--START_SECTION:waka-->
-![Tempo de Código](http://img.shields.io/badge/Tempo%20de%20C%C3%B3digo-178%20h%2034%20min-blue?style=flat)
+![Tempo de Código](http://img.shields.io/badge/Tempo%20de%20C%C3%B3digo-178%20h%2037%20min-blue?style=flat)
 
 **🐱 Meus dados no GitHub** 
 
@@ -237,7 +237,7 @@ Mac                      5 h 27 min          ███████████�
 ```
 
 
- Última atualização em 04/10/2026 21:42:23 UTC
+ Última atualização em 06/10/2026 00:12:24 UTC
 <!--END_SECTION:waka-->
 
 <!-- Card de stats desativado — ver a nota no README.md. -->

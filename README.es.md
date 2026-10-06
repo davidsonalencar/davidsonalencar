@@ -181,7 +181,7 @@ Proyectos open source que estoy publicando, extraídos de trabajo real en produc
   genera un solo bloque.
 -->
 <!--START_SECTION:waka-->
-![Tiempo de Código](http://img.shields.io/badge/Tiempo%20de%20C%C3%B3digo-178%20h%2034%20min-blue?style=flat)
+![Tiempo de Código](http://img.shields.io/badge/Tiempo%20de%20C%C3%B3digo-178%20h%2037%20min-blue?style=flat)
 
 **🐱 Mis datos de GitHub** 
 
@@ -239,7 +239,7 @@ Mac                      5 h 27 min          ███████████�
 ```
 
 
- Última actualización el 04/10/2026 21:42:23 UTC
+ Última actualización el 06/10/2026 00:12:24 UTC
 <!--END_SECTION:waka-->
 
 <!-- Tarjeta de stats desactivada — ver la nota en README.md. -->
