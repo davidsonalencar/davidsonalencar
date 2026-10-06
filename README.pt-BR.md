@@ -220,24 +220,25 @@ Domingo                  40 commits          ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-Markdown                 1 h 25 min          ███████░░░░░░░░░░░░░░░░░░   26,19 % 
-Python                   1 h 6 min           █████░░░░░░░░░░░░░░░░░░░░   20,33 % 
-textmate                 46 min              ████░░░░░░░░░░░░░░░░░░░░░   14,11 % 
-JSON                     37 min              ███░░░░░░░░░░░░░░░░░░░░░░   11,41 % 
-Bash                     33 min              ███░░░░░░░░░░░░░░░░░░░░░░   10,37 % 
+Markdown                 1 h 16 min          █████████░░░░░░░░░░░░░░░░   34,07 % 
+Bash                     38 min              ████░░░░░░░░░░░░░░░░░░░░░   17,14 % 
+Python                   38 min              ████░░░░░░░░░░░░░░░░░░░░░   17,00 % 
+TypeScript               23 min              ███░░░░░░░░░░░░░░░░░░░░░░   10,69 % 
+textmate                 21 min              ██░░░░░░░░░░░░░░░░░░░░░░░   09,59 % 
 
 🐱‍💻 Projetos: 
-trades                   2 h 36 min          ████████████░░░░░░░░░░░░░   47,72 % 
-bnportal-cli             1 h 31 min          ███████░░░░░░░░░░░░░░░░░░   27,84 % 
-bnportal                 56 min              ████░░░░░░░░░░░░░░░░░░░░░   17,34 % 
-cid8-manager             23 min              ██░░░░░░░░░░░░░░░░░░░░░░░   07,11 % 
+trades                   1 h 59 min          █████████████░░░░░░░░░░░░   53,33 % 
+bnportal                 51 min              ██████░░░░░░░░░░░░░░░░░░░   22,91 % 
+bnportal-cli             49 min              ██████░░░░░░░░░░░░░░░░░░░   22,26 % 
+daltrader                3 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01,49 % 
+cid8-manager             0 s                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00,02 % 
 
 💻 Sistema operacional: 
-Mac                      5 h 27 min          █████████████████████████   100,00 % 
+Mac                      3 h 43 min          █████████████████████████   100,00 % 
 ```
 
 
- Última atualização em 06/10/2026 00:12:24 UTC
+ Última atualização em 06/10/2026 22:43:20 UTC
 <!--END_SECTION:waka-->
 
 <!-- Card de stats desativado — ver a nota no README.md. -->
