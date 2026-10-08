@@ -185,9 +185,9 @@ Proyectos open source que estoy publicando, extraídos de trabajo real en produc
 
 **🐱 Mis datos de GitHub** 
 
-> 📦 63,4 kB almacenamiento de GitHub utilizado 
+> 📦 64,0 kB almacenamiento de GitHub utilizado 
  > 
-> 🏆 1.272 contribuciones durante el año 2026
+> 🏆 1.275 contribuciones durante el año 2026
  > 
 > 🚫 No abierto para contratación
  > 
@@ -222,25 +222,25 @@ Domingo                  40 commits          ███░░░░░░░░�
 🕑︎ Zona horaria: America/Sao_Paulo
 
 💬 Lenguajes de programación: 
-Markdown                 55 min              ███████░░░░░░░░░░░░░░░░░░   29,38 % 
-Bash                     38 min              █████░░░░░░░░░░░░░░░░░░░░   20,44 % 
-Python                   37 min              █████░░░░░░░░░░░░░░░░░░░░   20,00 % 
-textmate                 21 min              ███░░░░░░░░░░░░░░░░░░░░░░   11,21 % 
-JSON                     18 min              ██░░░░░░░░░░░░░░░░░░░░░░░   09,68 % 
+Markdown                 42 min              ███████░░░░░░░░░░░░░░░░░░   26,64 % 
+textmate                 34 min              █████░░░░░░░░░░░░░░░░░░░░   21,49 % 
+JSON                     27 min              ████░░░░░░░░░░░░░░░░░░░░░   17,36 % 
+Bash                     22 min              ████░░░░░░░░░░░░░░░░░░░░░   14,04 % 
+Python                   15 min              ██░░░░░░░░░░░░░░░░░░░░░░░   09,33 % 
 
 🐱‍💻 Proyectos: 
-trades                   1 h 37 min          █████████████░░░░░░░░░░░░   52,08 % 
-bnportal                 50 min              ███████░░░░░░░░░░░░░░░░░░   26,82 % 
-bnportal-cli             36 min              █████░░░░░░░░░░░░░░░░░░░░   19,30 % 
-daltrader                3 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01,78 % 
-cid8-manager             0 s                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00,01 % 
+bnportal                 59 min              █████████░░░░░░░░░░░░░░░░   37,09 % 
+bnportal-cli             55 min              █████████░░░░░░░░░░░░░░░░   34,14 % 
+trades                   43 min              ███████░░░░░░░░░░░░░░░░░░   26,69 % 
+daltrader                3 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02,07 % 
+cid8-manager             0 s                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00,02 % 
 
 💻 Sistema operativo: 
-Mac                      3 h 7 min           █████████████████████████   100,00 % 
+Mac                      2 h 41 min          █████████████████████████   100,00 % 
 ```
 
 
- Última actualización el 07/10/2026 23:13:44 UTC
+ Última actualización el 08/10/2026 23:28:46 UTC
 <!--END_SECTION:waka-->
 
 <!-- Tarjeta de stats desactivada — ver la nota en README.md. -->
