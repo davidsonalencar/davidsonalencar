@@ -181,7 +181,7 @@ Proyectos open source que estoy publicando, extraídos de trabajo real en produc
   genera un solo bloque.
 -->
 <!--START_SECTION:waka-->
-![Tiempo de Código](http://img.shields.io/badge/Tiempo%20de%20C%C3%B3digo-178%20h%2059%20min-blue?style=flat)
+![Tiempo de Código](http://img.shields.io/badge/Tiempo%20de%20C%C3%B3digo-179%20h%2047%20min-blue?style=flat)
 
 **🐱 Mis datos de GitHub** 
 
@@ -222,25 +222,24 @@ Domingo                  40 commits          ███░░░░░░░░�
 🕑︎ Zona horaria: America/Sao_Paulo
 
 💬 Lenguajes de programación: 
-Markdown                 42 min              ███████░░░░░░░░░░░░░░░░░░   26,64 % 
-textmate                 34 min              █████░░░░░░░░░░░░░░░░░░░░   21,49 % 
-JSON                     27 min              ████░░░░░░░░░░░░░░░░░░░░░   17,36 % 
-Bash                     22 min              ████░░░░░░░░░░░░░░░░░░░░░   14,04 % 
-Python                   15 min              ██░░░░░░░░░░░░░░░░░░░░░░░   09,33 % 
+Markdown                 42 min              ████████░░░░░░░░░░░░░░░░░   32,51 % 
+textmate                 34 min              ███████░░░░░░░░░░░░░░░░░░   26,24 % 
+JSON                     27 min              █████░░░░░░░░░░░░░░░░░░░░   21,20 % 
+HTML                     8 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06,44 % 
+Bash                     8 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06,37 % 
 
 🐱‍💻 Proyectos: 
-bnportal                 59 min              █████████░░░░░░░░░░░░░░░░   37,09 % 
-bnportal-cli             55 min              █████████░░░░░░░░░░░░░░░░   34,14 % 
-trades                   43 min              ███████░░░░░░░░░░░░░░░░░░   26,69 % 
-daltrader                3 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02,07 % 
-cid8-manager             0 s                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00,02 % 
+bnportal                 59 min              ███████████░░░░░░░░░░░░░░   45,29 % 
+bnportal-cli             55 min              ██████████░░░░░░░░░░░░░░░   41,69 % 
+trades                   13 min              ███░░░░░░░░░░░░░░░░░░░░░░   10,49 % 
+daltrader                3 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02,53 % 
 
 💻 Sistema operativo: 
-Mac                      2 h 41 min          █████████████████████████   100,00 % 
+Mac                      2 h 12 min          █████████████████████████   100,00 % 
 ```
 
 
- Última actualización el 08/10/2026 23:28:46 UTC
+ Última actualización el 09/10/2026 22:46:45 UTC
 <!--END_SECTION:waka-->
 
 <!-- Tarjeta de stats desactivada — ver la nota en README.md. -->
