@@ -175,13 +175,13 @@ Open-source projects I'm publishing, extracted from real production work:
 ## By the numbers
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2048%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 64.0 kB Used in GitHub's Storage 
+> 📦 64.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,275 Contributions in the Year 2026
+> 🏆 1,276 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -216,24 +216,24 @@ Sunday                   40 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 42 mins             ████████░░░░░░░░░░░░░░░░░   32.51 % 
-textmate                 34 mins             ███████░░░░░░░░░░░░░░░░░░   26.24 % 
-JSON                     27 mins             █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-HTML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Bash                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+textmate                 27 mins             █████████░░░░░░░░░░░░░░░░   36.98 % 
+JSON                     21 mins             ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+HTML                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Bash                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+TypeScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
 
 🐱‍💻 Projects: 
-bnportal                 59 mins             ███████████░░░░░░░░░░░░░░   45.29 % 
-bnportal-cli             55 mins             ██████████░░░░░░░░░░░░░░░   41.69 % 
-trades                   13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-daltrader                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+bnportal-cli             55 mins             ██████████████████░░░░░░░   73.82 % 
+bnportal                 10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+trades                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+daltrader                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 
 💻 Operating System: 
-Mac                      2 hrs 12 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 14 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/10/2026 22:46:45 UTC
+ Last Updated on 10/10/2026 21:54:09 UTC
 <!--END_SECTION:waka-->
 
 <!--
