@@ -179,7 +179,7 @@ Projetos open source que estou publicando, extraídos de trabalho real em produ�
   Os rótulos ficam em inglês de propósito — a action gera um bloco só.
 -->
 <!--START_SECTION:waka-->
-![Tempo de Código](http://img.shields.io/badge/Tempo%20de%20C%C3%B3digo-179%20h%2048%20min-blue?style=flat)
+![Tempo de Código](http://img.shields.io/badge/Tempo%20de%20C%C3%B3digo-179%20h%2049%20min-blue?style=flat)
 
 **🐱 Meus dados no GitHub** 
 
@@ -220,24 +220,24 @@ Domingo                  40 commits          ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-textmate                 27 min              █████████░░░░░░░░░░░░░░░░   36,98 % 
-JSON                     21 min              ███████░░░░░░░░░░░░░░░░░░   28,84 % 
-HTML                     8 min               ███░░░░░░░░░░░░░░░░░░░░░░   11,41 % 
-Bash                     8 min               ███░░░░░░░░░░░░░░░░░░░░░░   11,27 % 
-TypeScript               4 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06,60 % 
+textmate                 27 min              ██████████░░░░░░░░░░░░░░░   38,62 % 
+JSON                     21 min              ████████░░░░░░░░░░░░░░░░░   30,13 % 
+HTML                     8 min               ███░░░░░░░░░░░░░░░░░░░░░░   11,92 % 
+Bash                     5 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07,55 % 
+TypeScript               4 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06,90 % 
 
 🐱‍💻 Projetos: 
-bnportal-cli             55 min              ██████████████████░░░░░░░   73,82 % 
-bnportal                 10 min              ████░░░░░░░░░░░░░░░░░░░░░   14,06 % 
-trades                   5 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07,64 % 
-daltrader                3 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04,48 % 
+bnportal-cli             55 min              ███████████████████░░░░░░   77,11 % 
+bnportal                 10 min              ████░░░░░░░░░░░░░░░░░░░░░   14,69 % 
+daltrader                3 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04,67 % 
+trades                   2 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03,52 % 
 
 💻 Sistema operacional: 
-Mac                      1 h 14 min          █████████████████████████   100,00 % 
+Mac                      1 h 11 min          █████████████████████████   100,00 % 
 ```
 
 
- Última atualização em 10/10/2026 21:54:09 UTC
+ Última atualização em 11/10/2026 22:10:30 UTC
 <!--END_SECTION:waka-->
 
 <!-- Card de stats desativado — ver a nota no README.md. -->
