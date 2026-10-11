@@ -175,7 +175,7 @@ Open-source projects I'm publishing, extracted from real production work:
 ## By the numbers
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2049%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -216,24 +216,24 @@ Sunday                   40 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-textmate                 27 mins             █████████░░░░░░░░░░░░░░░░   36.98 % 
-JSON                     21 mins             ███████░░░░░░░░░░░░░░░░░░   28.84 % 
-HTML                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Bash                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-TypeScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+textmate                 27 mins             ██████████░░░░░░░░░░░░░░░   38.62 % 
+JSON                     21 mins             ████████░░░░░░░░░░░░░░░░░   30.13 % 
+HTML                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+TypeScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
 
 🐱‍💻 Projects: 
-bnportal-cli             55 mins             ██████████████████░░░░░░░   73.82 % 
-bnportal                 10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-trades                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-daltrader                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+bnportal-cli             55 mins             ███████████████████░░░░░░   77.11 % 
+bnportal                 10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+daltrader                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+trades                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 💻 Operating System: 
-Mac                      1 hr 14 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 11 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/10/2026 21:54:09 UTC
+ Last Updated on 11/10/2026 22:10:30 UTC
 <!--END_SECTION:waka-->
 
 <!--
