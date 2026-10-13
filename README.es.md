@@ -222,24 +222,24 @@ Domingo                  40 commits          ███░░░░░░░░�
 🕑︎ Zona horaria: America/Sao_Paulo
 
 💬 Lenguajes de programación: 
-textmate                 27 min              ██████████░░░░░░░░░░░░░░░   38,62 % 
-JSON                     21 min              ████████░░░░░░░░░░░░░░░░░   30,13 % 
-HTML                     8 min               ███░░░░░░░░░░░░░░░░░░░░░░   11,92 % 
-Bash                     5 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07,55 % 
-TypeScript               4 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06,90 % 
+textmate                 27 min              █████████░░░░░░░░░░░░░░░░   35,00 % 
+JSON                     21 min              ███████░░░░░░░░░░░░░░░░░░   27,30 % 
+HTML                     8 min               ███░░░░░░░░░░░░░░░░░░░░░░   10,80 % 
+Markdown                 7 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09,88 % 
+Bash                     5 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06,84 % 
 
 🐱‍💻 Proyectos: 
-bnportal-cli             55 min              ███████████████████░░░░░░   77,11 % 
-bnportal                 10 min              ████░░░░░░░░░░░░░░░░░░░░░   14,69 % 
-daltrader                3 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04,67 % 
-trades                   2 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03,52 % 
+bnportal-cli             55 min              █████████████████░░░░░░░░   69,87 % 
+bnportal                 10 min              ███░░░░░░░░░░░░░░░░░░░░░░   13,31 % 
+trades                   9 min               ███░░░░░░░░░░░░░░░░░░░░░░   12,59 % 
+daltrader                3 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04,24 % 
 
 💻 Sistema operativo: 
-Mac                      1 h 11 min          █████████████████████████   100,00 % 
+Mac                      1 h 18 min          █████████████████████████   100,00 % 
 ```
 
 
- Última actualización el 11/10/2026 22:10:30 UTC
+ Última actualización el 13/10/2026 00:52:55 UTC
 <!--END_SECTION:waka-->
 
 <!-- Tarjeta de stats desactivada — ver la nota en README.md. -->
