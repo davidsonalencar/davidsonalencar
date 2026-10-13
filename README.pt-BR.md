@@ -179,13 +179,13 @@ Projetos open source que estou publicando, extraídos de trabalho real em produ�
   Os rótulos ficam em inglês de propósito — a action gera um bloco só.
 -->
 <!--START_SECTION:waka-->
-![Tempo de Código](http://img.shields.io/badge/Tempo%20de%20C%C3%B3digo-179%20h%2049%20min-blue?style=flat)
+![Tempo de Código](http://img.shields.io/badge/Tempo%20de%20C%C3%B3digo-179%20h%2056%20min-blue?style=flat)
 
 **🐱 Meus dados no GitHub** 
 
 > 📦 64,1 kB usado no armazenamento do GitHub 
  > 
-> 🏆 1.276 contribuições no ano de 2026
+> 🏆 1.277 contribuições no ano de 2026
  > 
 > 🚫 Não aberto para contratação
  > 
@@ -220,24 +220,23 @@ Domingo                  40 commits          ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-textmate                 27 min              █████████░░░░░░░░░░░░░░░░   35,00 % 
-JSON                     21 min              ███████░░░░░░░░░░░░░░░░░░   27,30 % 
-HTML                     8 min               ███░░░░░░░░░░░░░░░░░░░░░░   10,80 % 
-Markdown                 7 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09,88 % 
-Bash                     5 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06,84 % 
+JSON                     19 min              ████████░░░░░░░░░░░░░░░░░   33,50 % 
+textmate                 13 min              ██████░░░░░░░░░░░░░░░░░░░   24,14 % 
+HTML                     8 min               ████░░░░░░░░░░░░░░░░░░░░░   14,77 % 
+Markdown                 7 min               ███░░░░░░░░░░░░░░░░░░░░░░   13,36 % 
+TypeScript               4 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07,28 % 
 
 🐱‍💻 Projetos: 
-bnportal-cli             55 min              █████████████████░░░░░░░░   69,87 % 
-bnportal                 10 min              ███░░░░░░░░░░░░░░░░░░░░░░   13,31 % 
-trades                   9 min               ███░░░░░░░░░░░░░░░░░░░░░░   12,59 % 
-daltrader                3 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04,24 % 
+bnportal-cli             38 min              █████████████████░░░░░░░░   67,29 % 
+bnportal                 10 min              ████░░░░░░░░░░░░░░░░░░░░░   17,43 % 
+trades                   8 min               ████░░░░░░░░░░░░░░░░░░░░░   15,28 % 
 
 💻 Sistema operacional: 
-Mac                      1 h 18 min          █████████████████████████   100,00 % 
+Mac                      57 min              █████████████████████████   100,00 % 
 ```
 
 
- Última atualização em 13/10/2026 00:52:55 UTC
+ Última atualização em 13/10/2026 22:57:43 UTC
 <!--END_SECTION:waka-->
 
 <!-- Card de stats desativado — ver a nota no README.md. -->

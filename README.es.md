@@ -181,13 +181,13 @@ Proyectos open source que estoy publicando, extraídos de trabajo real en produc
   genera un solo bloque.
 -->
 <!--START_SECTION:waka-->
-![Tiempo de Código](http://img.shields.io/badge/Tiempo%20de%20C%C3%B3digo-179%20h%2049%20min-blue?style=flat)
+![Tiempo de Código](http://img.shields.io/badge/Tiempo%20de%20C%C3%B3digo-179%20h%2056%20min-blue?style=flat)
 
 **🐱 Mis datos de GitHub** 
 
 > 📦 64,1 kB almacenamiento de GitHub utilizado 
  > 
-> 🏆 1.276 contribuciones durante el año 2026
+> 🏆 1.277 contribuciones durante el año 2026
  > 
 > 🚫 No abierto para contratación
  > 
@@ -222,24 +222,23 @@ Domingo                  40 commits          ███░░░░░░░░�
 🕑︎ Zona horaria: America/Sao_Paulo
 
 💬 Lenguajes de programación: 
-textmate                 27 min              █████████░░░░░░░░░░░░░░░░   35,00 % 
-JSON                     21 min              ███████░░░░░░░░░░░░░░░░░░   27,30 % 
-HTML                     8 min               ███░░░░░░░░░░░░░░░░░░░░░░   10,80 % 
-Markdown                 7 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09,88 % 
-Bash                     5 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06,84 % 
+JSON                     19 min              ████████░░░░░░░░░░░░░░░░░   33,50 % 
+textmate                 13 min              ██████░░░░░░░░░░░░░░░░░░░   24,14 % 
+HTML                     8 min               ████░░░░░░░░░░░░░░░░░░░░░   14,77 % 
+Markdown                 7 min               ███░░░░░░░░░░░░░░░░░░░░░░   13,36 % 
+TypeScript               4 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07,28 % 
 
 🐱‍💻 Proyectos: 
-bnportal-cli             55 min              █████████████████░░░░░░░░   69,87 % 
-bnportal                 10 min              ███░░░░░░░░░░░░░░░░░░░░░░   13,31 % 
-trades                   9 min               ███░░░░░░░░░░░░░░░░░░░░░░   12,59 % 
-daltrader                3 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04,24 % 
+bnportal-cli             38 min              █████████████████░░░░░░░░   67,29 % 
+bnportal                 10 min              ████░░░░░░░░░░░░░░░░░░░░░   17,43 % 
+trades                   8 min               ████░░░░░░░░░░░░░░░░░░░░░   15,28 % 
 
 💻 Sistema operativo: 
-Mac                      1 h 18 min          █████████████████████████   100,00 % 
+Mac                      57 min              █████████████████████████   100,00 % 
 ```
 
 
- Última actualización el 13/10/2026 00:52:55 UTC
+ Última actualización el 13/10/2026 22:57:43 UTC
 <!--END_SECTION:waka-->
 
 <!-- Tarjeta de stats desactivada — ver la nota en README.md. -->
