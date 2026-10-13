@@ -216,24 +216,24 @@ Sunday                   40 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-textmate                 27 mins             ██████████░░░░░░░░░░░░░░░   38.62 % 
-JSON                     21 mins             ████████░░░░░░░░░░░░░░░░░   30.13 % 
-HTML                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-TypeScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+textmate                 27 mins             █████████░░░░░░░░░░░░░░░░   35.00 % 
+JSON                     21 mins             ███████░░░░░░░░░░░░░░░░░░   27.30 % 
+HTML                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
 
 🐱‍💻 Projects: 
-bnportal-cli             55 mins             ███████████████████░░░░░░   77.11 % 
-bnportal                 10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-daltrader                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-trades                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+bnportal-cli             55 mins             █████████████████░░░░░░░░   69.87 % 
+bnportal                 10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+trades                   9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+daltrader                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
 💻 Operating System: 
-Mac                      1 hr 11 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 18 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/10/2026 22:10:30 UTC
+ Last Updated on 13/10/2026 00:52:55 UTC
 <!--END_SECTION:waka-->
 
 <!--
