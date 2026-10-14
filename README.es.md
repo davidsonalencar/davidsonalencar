@@ -185,7 +185,7 @@ Proyectos open source que estoy publicando, extraídos de trabajo real en produc
 
 **🐱 Mis datos de GitHub** 
 
-> 📦 64,1 kB almacenamiento de GitHub utilizado 
+> 📦 65,1 kB almacenamiento de GitHub utilizado 
  > 
 > 🏆 1.277 contribuciones durante el año 2026
  > 
@@ -238,7 +238,7 @@ Mac                      57 min              ███████████�
 ```
 
 
- Última actualización el 13/10/2026 22:57:43 UTC
+ Última actualización el 14/10/2026 21:50:19 UTC
 <!--END_SECTION:waka-->
 
 <!-- Tarjeta de stats desactivada — ver la nota en README.md. -->
