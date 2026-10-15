@@ -185,7 +185,7 @@ Projetos open source que estou publicando, extraídos de trabalho real em produ�
 
 > 📦 65,1 kB usado no armazenamento do GitHub 
  > 
-> 🏆 1.277 contribuições no ano de 2026
+> 🏆 1.286 contribuições no ano de 2026
  > 
 > 🚫 Não aberto para contratação
  > 
@@ -220,23 +220,22 @@ Domingo                  40 commits          ███░░░░░░░░�
 🕑︎ Fuso horário: America/Sao_Paulo
 
 💬 Linguagens de programação: 
-JSON                     19 min              ████████░░░░░░░░░░░░░░░░░   33,50 % 
-textmate                 13 min              ██████░░░░░░░░░░░░░░░░░░░   24,14 % 
-HTML                     8 min               ████░░░░░░░░░░░░░░░░░░░░░   14,77 % 
-Markdown                 7 min               ███░░░░░░░░░░░░░░░░░░░░░░   13,36 % 
-TypeScript               4 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07,28 % 
+PHP                      1 h 22 min          █████████████░░░░░░░░░░░░   53,40 % 
+INI                      49 min              ████████░░░░░░░░░░░░░░░░░   32,06 % 
+Bash                     12 min              ██░░░░░░░░░░░░░░░░░░░░░░░   08,10 % 
+Markdown                 7 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04,95 % 
+Blade Template           2 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01,37 % 
 
 🐱‍💻 Projetos: 
-bnportal-cli             38 min              █████████████████░░░░░░░░   67,29 % 
-bnportal                 10 min              ████░░░░░░░░░░░░░░░░░░░░░   17,43 % 
-trades                   8 min               ████░░░░░░░░░░░░░░░░░░░░░   15,28 % 
+e-commerce - Laravel     2 h 14 min          ██████████████████████░░░   86,83 % 
+trades                   20 min              ███░░░░░░░░░░░░░░░░░░░░░░   13,17 % 
 
 💻 Sistema operacional: 
-Mac                      57 min              █████████████████████████   100,00 % 
+Mac                      2 h 35 min          █████████████████████████   100,00 % 
 ```
 
 
- Última atualização em 14/10/2026 21:50:19 UTC
+ Última atualização em 15/10/2026 21:34:03 UTC
 <!--END_SECTION:waka-->
 
 <!-- Card de stats desativado — ver a nota no README.md. -->

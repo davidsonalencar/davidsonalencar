@@ -187,7 +187,7 @@ Proyectos open source que estoy publicando, extraídos de trabajo real en produc
 
 > 📦 65,1 kB almacenamiento de GitHub utilizado 
  > 
-> 🏆 1.277 contribuciones durante el año 2026
+> 🏆 1.286 contribuciones durante el año 2026
  > 
 > 🚫 No abierto para contratación
  > 
@@ -222,23 +222,22 @@ Domingo                  40 commits          ███░░░░░░░░�
 🕑︎ Zona horaria: America/Sao_Paulo
 
 💬 Lenguajes de programación: 
-JSON                     19 min              ████████░░░░░░░░░░░░░░░░░   33,50 % 
-textmate                 13 min              ██████░░░░░░░░░░░░░░░░░░░   24,14 % 
-HTML                     8 min               ████░░░░░░░░░░░░░░░░░░░░░   14,77 % 
-Markdown                 7 min               ███░░░░░░░░░░░░░░░░░░░░░░   13,36 % 
-TypeScript               4 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07,28 % 
+PHP                      1 h 22 min          █████████████░░░░░░░░░░░░   53,40 % 
+INI                      49 min              ████████░░░░░░░░░░░░░░░░░   32,06 % 
+Bash                     12 min              ██░░░░░░░░░░░░░░░░░░░░░░░   08,10 % 
+Markdown                 7 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04,95 % 
+Blade Template           2 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01,37 % 
 
 🐱‍💻 Proyectos: 
-bnportal-cli             38 min              █████████████████░░░░░░░░   67,29 % 
-bnportal                 10 min              ████░░░░░░░░░░░░░░░░░░░░░   17,43 % 
-trades                   8 min               ████░░░░░░░░░░░░░░░░░░░░░   15,28 % 
+e-commerce - Laravel     2 h 14 min          ██████████████████████░░░   86,83 % 
+trades                   20 min              ███░░░░░░░░░░░░░░░░░░░░░░   13,17 % 
 
 💻 Sistema operativo: 
-Mac                      57 min              █████████████████████████   100,00 % 
+Mac                      2 h 35 min          █████████████████████████   100,00 % 
 ```
 
 
- Última actualización el 14/10/2026 21:50:19 UTC
+ Última actualización el 15/10/2026 21:34:03 UTC
 <!--END_SECTION:waka-->
 
 <!-- Tarjeta de stats desactivada — ver la nota en README.md. -->
