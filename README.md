@@ -175,13 +175,13 @@ Open-source projects I'm publishing, extracted from real production work:
 ## By the numbers
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%2050%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 80.6 kB Used in GitHub's Storage 
+> 📦 82.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,308 Contributions in the Year 2026
+> 🏆 1,322 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -216,25 +216,25 @@ Sunday                   40 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JSON                     1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   26.57 % 
-PHP                      1 hr 47 mins        ███████░░░░░░░░░░░░░░░░░░   26.10 % 
-INI                      55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-TypeScript               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-textmate                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+JSON                     1 hr 49 mins        ██████████░░░░░░░░░░░░░░░   39.36 % 
+TypeScript               39 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+textmate                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+PHP                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 
 🐱‍💻 Projects: 
-e-commerce - Laravel     3 hrs 33 mins       █████████████░░░░░░░░░░░░   51.67 % 
-bnportal-cli             1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   26.55 % 
-bnportal                 53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-trades                   27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-daltrader                8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+bnportal-cli             1 hr 49 mins        ██████████░░░░░░░░░░░░░░░   39.33 % 
+e-commerce - Laravel     1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   28.16 % 
+bnportal                 53 mins             █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+trades                   28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+daltrader                8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 💻 Operating System: 
-Mac                      6 hrs 52 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/10/2026 21:52:13 UTC
+ Last Updated on 22/10/2026 21:47:48 UTC
 <!--END_SECTION:waka-->
 
 <!--
