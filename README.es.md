@@ -181,13 +181,13 @@ Proyectos open source que estoy publicando, extraídos de trabajo real en produc
   genera un solo bloque.
 -->
 <!--START_SECTION:waka-->
-![Tiempo de Código](http://img.shields.io/badge/Tiempo%20de%20C%C3%B3digo-186%20h%2046%20min-blue?style=flat)
+![Tiempo de Código](http://img.shields.io/badge/Tiempo%20de%20C%C3%B3digo-186%20h%2050%20min-blue?style=flat)
 
 **🐱 Mis datos de GitHub** 
 
-> 📦 80,6 kB almacenamiento de GitHub utilizado 
+> 📦 82,2 kB almacenamiento de GitHub utilizado 
  > 
-> 🏆 1.308 contribuciones durante el año 2026
+> 🏆 1.322 contribuciones durante el año 2026
  > 
 > 🚫 No abierto para contratación
  > 
@@ -222,25 +222,25 @@ Domingo                  40 commits          ███░░░░░░░░�
 🕑︎ Zona horaria: America/Sao_Paulo
 
 💬 Lenguajes de programación: 
-JSON                     1 h 49 min          ███████░░░░░░░░░░░░░░░░░░   26,57 % 
-PHP                      1 h 47 min          ███████░░░░░░░░░░░░░░░░░░   26,10 % 
-INI                      55 min              ███░░░░░░░░░░░░░░░░░░░░░░   13,36 % 
-TypeScript               38 min              ██░░░░░░░░░░░░░░░░░░░░░░░   09,42 % 
-textmate                 27 min              ██░░░░░░░░░░░░░░░░░░░░░░░   06,61 % 
+JSON                     1 h 49 min          ██████████░░░░░░░░░░░░░░░   39,36 % 
+TypeScript               39 min              ████░░░░░░░░░░░░░░░░░░░░░   14,03 % 
+textmate                 27 min              ██░░░░░░░░░░░░░░░░░░░░░░░   09,80 % 
+PHP                      24 min              ██░░░░░░░░░░░░░░░░░░░░░░░   08,90 % 
+HTML                     14 min              █░░░░░░░░░░░░░░░░░░░░░░░░   05,08 % 
 
 🐱‍💻 Proyectos: 
-e-commerce - Laravel     3 h 33 min          █████████████░░░░░░░░░░░░   51,67 % 
-bnportal-cli             1 h 49 min          ███████░░░░░░░░░░░░░░░░░░   26,55 % 
-bnportal                 53 min              ███░░░░░░░░░░░░░░░░░░░░░░   12,94 % 
-trades                   27 min              ██░░░░░░░░░░░░░░░░░░░░░░░   06,71 % 
-daltrader                8 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02,12 % 
+bnportal-cli             1 h 49 min          ██████████░░░░░░░░░░░░░░░   39,33 % 
+e-commerce - Laravel     1 h 18 min          ███████░░░░░░░░░░░░░░░░░░   28,16 % 
+bnportal                 53 min              █████░░░░░░░░░░░░░░░░░░░░   19,17 % 
+trades                   28 min              ███░░░░░░░░░░░░░░░░░░░░░░   10,20 % 
+daltrader                8 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03,15 % 
 
 💻 Sistema operativo: 
-Mac                      6 h 52 min          █████████████████████████   100,00 % 
+Mac                      4 h 38 min          █████████████████████████   100,00 % 
 ```
 
 
- Última actualización el 21/10/2026 21:52:13 UTC
+ Última actualización el 22/10/2026 21:47:48 UTC
 <!--END_SECTION:waka-->
 
 <!-- Tarjeta de stats desactivada — ver la nota en README.md. -->
