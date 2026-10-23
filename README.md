@@ -175,13 +175,13 @@ Open-source projects I'm publishing, extracted from real production work:
 ## By the numbers
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-187%20hrs%202%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 82.2 kB Used in GitHub's Storage 
+> 📦 82.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,322 Contributions in the Year 2026
+> 🏆 1,326 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -216,25 +216,25 @@ Sunday                   40 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JSON                     1 hr 49 mins        ██████████░░░░░░░░░░░░░░░   39.36 % 
-TypeScript               39 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-textmate                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-PHP                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+JSON                     1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   29.29 % 
+Markdown                 47 mins             █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+Python                   38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+textmate                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+PHP                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
 
 🐱‍💻 Projects: 
-bnportal-cli             1 hr 49 mins        ██████████░░░░░░░░░░░░░░░   39.33 % 
-e-commerce - Laravel     1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   28.16 % 
-bnportal                 53 mins             █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
-trades                   28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-daltrader                8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+trades                   1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   37.02 % 
+bnportal-cli             1 hr 15 mins        ████████░░░░░░░░░░░░░░░░░   33.92 % 
+e-commerce - Laravel     42 mins             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+bnportal                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+cid8-manager             7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 💻 Operating System: 
-Mac                      4 hrs 38 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/10/2026 21:47:48 UTC
+ Last Updated on 23/10/2026 21:32:49 UTC
 <!--END_SECTION:waka-->
 
 <!--
