@@ -179,9 +179,9 @@ Open-source projects I'm publishing, extracted from real production work:
 
 **🐱 My GitHub Data** 
 
-> 📦 82.9 kB Used in GitHub's Storage 
+> 📦 84.6 kB Used in GitHub's Storage 
  > 
-> 🏆 1,329 Contributions in the Year 2026
+> 🏆 1,336 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -216,25 +216,25 @@ Sunday                   40 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 1 hr 38 mins        ███████████░░░░░░░░░░░░░░   45.99 % 
-JSON                     41 mins             █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-Python                   35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-TypeScript               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-HTML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Markdown                 1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   37.43 % 
+TypeScript               41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+JSON                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Python                   32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
 
 🐱‍💻 Projects: 
-trades                   2 hrs 10 mins       ███████████████░░░░░░░░░░   60.87 % 
-bnportal-cli             1 hr 11 mins        ████████░░░░░░░░░░░░░░░░░   33.34 % 
-cid8-manager             7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-bnportal                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-e-commerce - Laravel     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+trades                   2 hrs 1 min         ████████████░░░░░░░░░░░░░   48.91 % 
+bnportal-cli             1 hr 35 mins        ██████████░░░░░░░░░░░░░░░   38.52 % 
+cid8-manager             19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+e-commerce - Laravel     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+bnportal                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 💻 Operating System: 
-Mac                      3 hrs 34 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/10/2026 22:44:02 UTC
+ Last Updated on 29/10/2026 22:53:30 UTC
 <!--END_SECTION:waka-->
 
 <!--
